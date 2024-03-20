@@ -1,0 +1,1608 @@
+{
+    "events": [
+        {
+            "year": 97,
+            "html": "Roman emperor <a href=\"https://wikipedia.org/wiki/Nerva\" title=\"Nerva\">Nerva</a> is forced by the <a href=\"https://wikipedia.org/wiki/Praetorian_Guard\" title=\"Praetorian Guard\">Praetorian Guard</a> to adopt general <a href=\"https://wikipedia.org/wiki/Trajan\" title=\"Trajan\">Marcus Ulpius Trajanus</a> as his heir and successor."
+        },
+        {
+            "year": 306,
+            "html": "<a href=\"https://wikipedia.org/wiki/Maxentius\" title=\"Maxentius\">Maxentius</a> is proclaimed <a href=\"https://wikipedia.org/wiki/Roman_emperor\" title=\"Roman emperor\">Roman emperor</a>."
+        },
+        {
+            "year": 312,
+            "html": "Constantine I <a href=\"https://wikipedia.org/wiki/Battle_of_the_Milvian_Bridge\" title=\"Battle of the Milvian Bridge\">defeats Maxentius</a>, becoming the sole Roman emperor in the West."
+        },
+        {
+            "year": 969,
+            "html": "The <a href=\"https://wikipedia.org/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">Byzantine Empire</a> <a href=\"https://wikipedia.org/wiki/Siege_of_Antioch_(968%E2%80%93969)\" title=\"Siege of Antioch (968-969)\">recovers Antioch</a> from Arab rule."
+        },
+        {
+            "year": 1344,
+            "html": "The lower town of Smyrna is captured by <a href=\"https://wikipedia.org/wiki/Smyrniote_crusades\" title=\"Smyrniote crusades\">Crusaders</a> in response to <a href=\"https://wikipedia.org/wiki/Ayd%C4%B1nids\" title=\"Aydınids\">Aydınid</a> piracy."
+        },
+        {
+            "year": 1420,
+            "html": "<a href=\"https://wikipedia.org/wiki/Beijing\" title=\"Beijing\">Beijing</a> is officially designated the capital of the <a href=\"https://wikipedia.org/wiki/Ming_dynasty\" title=\"Ming dynasty\">Ming dynasty</a> when the <a href=\"https://wikipedia.org/wiki/Forbidden_City\" title=\"Forbidden City\">Forbidden City</a> is completed."
+        },
+        {
+            "year": 1449,
+            "html": "<a href=\"https://wikipedia.org/wiki/Christian_I_of_Denmark\" title=\"Christian I of Denmark\">Christian I</a> is crowned king of Denmark."
+        },
+        {
+            "year": 1453,
+            "html": "<a href=\"https://wikipedia.org/wiki/Ladislaus_the_Posthumous\" title=\"Ladislaus the Posthumous\">Ladislaus the Posthumous</a> is crowned king of Bohemia in Prague."
+        },
+        {
+            "year": 1492,
+            "html": "<a href=\"https://wikipedia.org/wiki/Christopher_Columbus\" title=\"Christopher Columbus\">Christopher Columbus</a> lands in <a href=\"https://wikipedia.org/wiki/Cuba\" title=\"Cuba\">Cuba</a> on his <a href=\"https://wikipedia.org/wiki/Voyages_of_Christopher_Columbus\" title=\"Voyages of Christopher Columbus\">first voyage to the New World</a>, surmising that it is Japan."
+        },
+        {
+            "year": 1516,
+            "html": "<a href=\"https://wikipedia.org/wiki/Ottoman%E2%80%93Mamluk_War_(1516%E2%80%9317)\" title=\"Ottoman-Mamluk War (1516-17)\">Second Ottoman-Mamluk War</a>: Mamluks fail to stop the Ottoman advance towards Egypt at the <a href=\"https://wikipedia.org/wiki/Battle_of_Yaunis_Khan\" title=\"Battle of Yaunis Khan\">Battle of Yaunis Khan</a>."
+        },
+        {
+            "year": 1520,
+            "html": "<a href=\"https://wikipedia.org/wiki/Ferdinand_Magellan\" title=\"Ferdinand Magellan\">Ferdinand Magellan</a> reaches the Pacific Ocean."
+        },
+        {
+            "year": 1531,
+            "html": "<a href=\"https://wikipedia.org/wiki/Abyssinian%E2%80%93Adal_war\" title=\"Abyssinian-Adal war\">Abyssinian-Adal war</a>: The <a href=\"https://wikipedia.org/wiki/Adal_Sultanate\" title=\"Adal Sultanate\">Adal Sultanate</a> <a href=\"https://wikipedia.org/wiki/Battle_of_Amba_Sel\" title=\"Battle of Amba Sel\">seizes</a> southern Ethiopia."
+        },
+        {
+            "year": 1538,
+            "html": "The <a href=\"https://wikipedia.org/wiki/Universidad_Santo_Tom%C3%A1s_de_Aquino\" title=\"Universidad Santo Tomás de Aquino\">Universidad Santo Tomás de Aquino</a> is founded in what is now the Dominican Republic."
+        },
+        {
+            "year": 1628,
+            "html": "<a href=\"https://wikipedia.org/wiki/French_Wars_of_Religion\" title=\"French Wars of Religion\">French Wars of Religion</a>: The <a href=\"https://wikipedia.org/wiki/Siege_of_La_Rochelle\" title=\"Siege of La Rochelle\">Siege of La Rochelle</a> ends with the surrender of the Huguenots after fourteen months."
+        },
+        {
+            "year": 1636,
+            "html": "The <a href=\"https://wikipedia.org/wiki/Massachusetts_Bay_Colony\" title=\"Massachusetts Bay Colony\">Massachusetts Bay Colony</a> votes to establish a theological college, which would later become <a href=\"https://wikipedia.org/wiki/Harvard_University\" title=\"Harvard University\">Harvard University</a>."
+        },
+        {
+            "year": 1664,
+            "html": "The Duke of York and Albany's Maritime Regiment of Foot, later to be known as the <a href=\"https://wikipedia.org/wiki/Royal_Marines\" title=\"Royal Marines\">Royal Marines</a>, is established."
+        },
+        {
+            "year": 1707,
+            "html": "The <a href=\"https://wikipedia.org/wiki/1707_H%C5%8Dei_earthquake\" title=\"1707 Hōei earthquake\">1707 Hōei earthquake</a> causes more than 5,000 deaths in Japan."
+        },
+        {
+            "year": 1726,
+            "html": "The novel <i><a href=\"https://wikipedia.org/wiki/Gulliver%27s_Travels\" title=\"Gulliver's Travels\">Gulliver's Travels</a></i> written by <a href=\"https://wikipedia.org/wiki/Jonathan_Swift\" title=\"Jonathan Swift\">Jonathan Swift</a> is published."
+        },
+        {
+            "year": 1776,
+            "html": "<a href=\"https://wikipedia.org/wiki/American_Revolutionary_War\" title=\"American Revolutionary War\">American Revolutionary War</a>: British troops <a href=\"https://wikipedia.org/wiki/Battle_of_White_Plains\" title=\"Battle of White Plains\">attack and capture</a> Chatterton Hill from the Continental Army."
+        },
+        {
+            "year": 1834,
+            "html": "The <a href=\"https://wikipedia.org/wiki/Pinjarra_massacre\" title=\"Pinjarra massacre\">Pinjarra massacre</a> occurs in the Swan River Colony. An estimated 30 Noongar people are killed by British colonists."
+        },
+        {
+            "year": 1835,
+            "html": "The <a href=\"https://wikipedia.org/wiki/United_Tribes_of_New_Zealand\" title=\"United Tribes of New Zealand\">United Tribes of New Zealand</a> are established with the signature of the <a href=\"https://wikipedia.org/wiki/Declaration_of_the_Independence_of_New_Zealand\" title=\"Declaration of the Independence of New Zealand\">Declaration of Independence</a>."
+        },
+        {
+            "year": 1864,
+            "html": "<a href=\"https://wikipedia.org/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: A <a href=\"https://wikipedia.org/wiki/Union_(American_Civil_War)\" title=\"Union (American Civil War)\">Union</a> <a href=\"https://wikipedia.org/wiki/Battle_of_Fair_Oaks_%26_Darbytown_Road\" title=\"Battle of Fair Oaks &amp; Darbytown Road\">attack</a> on the <a href=\"https://wikipedia.org/wiki/Confederate_States_of_America\" title=\"Confederate States of America\">Confederate</a> capital of <a href=\"https://wikipedia.org/wiki/Richmond,_Virginia\" title=\"Richmond, Virginia\">Richmond</a> is repulsed."
+        },
+        {
+            "year": 1886,
+            "html": "US president <a href=\"https://wikipedia.org/wiki/Grover_Cleveland\" title=\"Grover Cleveland\">Grover Cleveland</a> dedicates the <a href=\"https://wikipedia.org/wiki/Statue_of_Liberty\" title=\"Statue of Liberty\">Statue of Liberty</a>."
+        },
+        {
+            "year": 1891,
+            "html": "The <a href=\"https://wikipedia.org/wiki/1891_Mino%E2%80%93Owari_earthquake\" title=\"1891 Mino-Owari earthquake\">Mino-Owari earthquake</a>, the largest inland earthquake in Japan's history, occurs."
+        },
+        {
+            "year": 1893,
+            "html": "<a href=\"https://wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky\" title=\"Pyotr Ilyich Tchaikovsky\">Pyotr Tchaikovsky</a>'s <a href=\"https://wikipedia.org/wiki/Symphony_No._6_(Tchaikovsky)\" title=\"Symphony No. 6 (Tchaikovsky)\">Symphony No. 6 in B Minor, <i>Pathétique</i></a> receives its première performance only nine days before the composer's death."
+        },
+        {
+            "year": 1918,
+            "html": "<a href=\"https://wikipedia.org/wiki/World_War_I\" title=\"World War I\">World War I</a>: A new Polish government in western Galicia is established, triggering the <a href=\"https://wikipedia.org/wiki/Polish%E2%80%93Ukrainian_War\" title=\"Polish-Ukrainian War\">Polish-Ukrainian War</a>."
+        },
+        {
+            "year": 1918,
+            "html": "World War I: Czech politicians peacefully take over the city of Prague, thus establishing the <a href=\"https://wikipedia.org/wiki/First_Czechoslovak_Republic\" title=\"First Czechoslovak Republic\">First Czechoslovak Republic</a>."
+        },
+        {
+            "year": 1919,
+            "html": "The U.S. Congress passes the <a href=\"https://wikipedia.org/wiki/Volstead_Act\" title=\"Volstead Act\">Volstead Act</a> over President <a href=\"https://wikipedia.org/wiki/Woodrow_Wilson\" title=\"Woodrow Wilson\">Woodrow Wilson</a>'s veto, paving the way for <a href=\"https://wikipedia.org/wiki/Prohibition_in_the_United_States\" title=\"Prohibition in the United States\">Prohibition</a> to begin the following January."
+        },
+        {
+            "year": 1922,
+            "html": "<a href=\"https://wikipedia.org/wiki/Italian_Fascism\" title=\"Italian Fascism\">Italian fascists</a> led by Benito Mussolini <a href=\"https://wikipedia.org/wiki/March_on_Rome\" title=\"March on Rome\">march on Rome</a> and take over the Italian government."
+        },
+        {
+            "year": 1928,
+            "html": "<a href=\"https://wikipedia.org/wiki/Indonesia_Raya\" title=\"Indonesia Raya\">Indonesia Raya</a>, now the national anthem of Indonesia, is first played during the <a href=\"https://wikipedia.org/wiki/Youth_Pledge\" title=\"Youth Pledge\">Second Indonesian Youth Congress</a>."
+        },
+        {
+            "year": 1940,
+            "html": "<a href=\"https://wikipedia.org/wiki/World_War_II\" title=\"World War II\">World War II</a>: Greece <a href=\"https://wikipedia.org/wiki/Ohi_Day\" title=\"Ohi Day\">rejects</a> Italy's ultimatum. <a href=\"https://wikipedia.org/wiki/Italian_invasion_of_Greece\" title=\"Italian invasion of Greece\">Italy invades Greece</a> through <a href=\"https://wikipedia.org/wiki/Italian_Albania\" title=\"Italian Albania\">Albania</a> a few hours later."
+        },
+        {
+            "year": 1942,
+            "html": "The <a href=\"https://wikipedia.org/wiki/Alaska_Highway\" title=\"Alaska Highway\">Alaska Highway</a> first connects Alaska to the North American railway network at <a href=\"https://wikipedia.org/wiki/Dawson_Creek\" title=\"Dawson Creek\">Dawson Creek</a> in Canada."
+        },
+        {
+            "year": 1948,
+            "html": "<a href=\"https://wikipedia.org/wiki/Paul_Hermann_M%C3%BCller\" title=\"Paul Hermann Müller\">Paul Hermann Müller</a> is awarded the Nobel Prize in Physiology or Medicine for his discovery of the insecticidal properties of DDT."
+        },
+        {
+            "year": 1948,
+            "html": "<a href=\"https://wikipedia.org/wiki/1948_Donora_smog\" title=\"1948 Donora smog\">Ecological disaster</a> in <a href=\"https://wikipedia.org/wiki/Donora,_Pennsylvania\" title=\"Donora, Pennsylvania\">Donora, Pennsylvania</a>."
+        },
+        {
+            "year": 1949,
+            "html": "An <a href=\"https://wikipedia.org/wiki/Air_France\" title=\"Air France\">Air France</a> <a href=\"https://wikipedia.org/wiki/Lockheed_Constellation\" title=\"Lockheed Constellation\">Lockheed Constellation</a> <a href=\"https://wikipedia.org/wiki/Air_France_Flight_009\" title=\"Air France Flight 009\">crashes</a> in the Azores, killing all 48 people on board."
+        },
+        {
+            "year": 1956,
+            "html": "<a href=\"https://wikipedia.org/wiki/Hungarian_Revolution_of_1956\" title=\"Hungarian Revolution of 1956\">Hungarian Revolution</a>: A <i>de facto</i> ceasefire comes into effect between armed revolutionaries and Soviet troops, who begin to withdraw from Budapest. Communist officials and facilities come under attack by revolutionaries."
+        },
+        {
+            "year": 1958,
+            "html": "<a href=\"https://wikipedia.org/wiki/Pope_John_XXIII\" title=\"Pope John XXIII\">John XXIII</a> is <a href=\"https://wikipedia.org/wiki/1958_papal_conclave\" title=\"1958 papal conclave\">elected Pope</a>."
+        },
+        {
+            "year": 1962,
+            "html": "The <a href=\"https://wikipedia.org/wiki/Cuban_Missile_Crisis\" title=\"Cuban Missile Crisis\">Cuban Missile Crisis</a> ends and Premier <a href=\"https://wikipedia.org/wiki/Nikita_Khrushchev\" title=\"Nikita Khrushchev\">Nikita Khrushchev</a> orders the removal of Soviet missiles from Cuba."
+        },
+        {
+            "year": 1965,
+            "html": "<a href=\"https://wikipedia.org/wiki/Pope_Paul_VI\" title=\"Pope Paul VI\">Pope Paul VI</a> promulgates <i><a href=\"https://wikipedia.org/wiki/Nostra_aetate\" title=\"Nostra aetate\">Nostra aetate</a></i>, by which the <a href=\"https://wikipedia.org/wiki/Catholic_Church\" title=\"Catholic Church\">Roman Catholic Church</a> officially recognizes the legitimacy of non-Christian faiths."
+        },
+        {
+            "year": 1971,
+            "html": "<a href=\"https://wikipedia.org/wiki/Prospero_(spacecraft)\" title=\"Prospero (spacecraft)\">Prospero</a> becomes the only British satellite to be launched by a British rocket."
+        },
+        {
+            "year": 1982,
+            "html": "The <a href=\"https://wikipedia.org/wiki/1982_Spanish_general_election\" title=\"1982 Spanish general election\">Spanish general election</a> begins fourteen years of rule by the <a href=\"https://wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party\" title=\"Spanish Socialist Workers' Party\">Spanish Socialist Workers' Party</a>."
+        },
+        {
+            "year": 1990,
+            "html": "Georgia holds its <a href=\"https://wikipedia.org/wiki/1990_Georgian_Supreme_Soviet_election\" title=\"1990 Georgian Supreme Soviet election\">only free election</a> under Soviet rule."
+        },
+        {
+            "year": 1995,
+            "html": "The <a href=\"https://wikipedia.org/wiki/1995_Baku_Metro_fire\" title=\"1995 Baku Metro fire\">Baku Metro fire</a> sees 289 people killed and 270 injured."
+        },
+        {
+            "year": 2006,
+            "html": "A funeral service takes place at the <a href=\"https://wikipedia.org/wiki/Bykivnia_graves\" title=\"Bykivnia graves\">Bykivnia graves</a> for Ukrainians who were killed by the Soviet secret police."
+        },
+        {
+            "year": 2007,
+            "html": "<a href=\"https://wikipedia.org/wiki/Cristina_Fern%C3%A1ndez_de_Kirchner\" title=\"Cristina Fernández de Kirchner\">Cristina Fernández de Kirchner</a> becomes the first directly elected female <a href=\"https://wikipedia.org/wiki/President_of_Argentina\" title=\"President of Argentina\">President of Argentina</a>."
+        },
+        {
+            "year": 2009,
+            "html": "The <a href=\"https://wikipedia.org/wiki/28_October_2009_Peshawar_bombing\" title=\"28 October 2009 Peshawar bombing\">28 October 2009 Peshawar bombing</a> kills 117 and wounds 213."
+        },
+        {
+            "year": 2009,
+            "html": "<a href=\"https://wikipedia.org/wiki/NASA\" title=\"NASA\">NASA</a> successfully launches the <a href=\"https://wikipedia.org/wiki/Ares_I-X\" title=\"Ares I-X\">Ares I-X</a> mission, the only rocket launch for its short-lived <a href=\"https://wikipedia.org/wiki/Constellation_program\" title=\"Constellation program\">Constellation program</a>."
+        },
+        {
+            "year": 2009,
+            "html": "US President <a href=\"https://wikipedia.org/wiki/Barack_Obama\" title=\"Barack Obama\">Barack Obama</a> signs the <a href=\"https://wikipedia.org/wiki/Matthew_Shepard_and_James_Byrd_Jr._Hate_Crimes_Prevention_Act\" title=\"Matthew Shepard and James Byrd Jr. Hate Crimes Prevention Act\">Matthew Shepard and James Byrd Jr. Hate Crimes Prevention Act</a>."
+        },
+        {
+            "year": 2013,
+            "html": "Five people are killed and 38 are injured after a <a href=\"https://wikipedia.org/wiki/2013_Tiananmen_Square_attack\" title=\"2013 Tiananmen Square attack\">car crashes</a> into barriers at <a href=\"https://wikipedia.org/wiki/Tiananmen_Square\" title=\"Tiananmen Square\">Tiananmen Square</a> in China."
+        },
+        {
+            "year": 2014,
+            "html": "A rocket carrying NASA's <a href=\"https://wikipedia.org/wiki/Cygnus_Orb-3\" title=\"Cygnus Orb-3\">Cygnus CRS Orb-3</a> resupply mission to the <a href=\"https://wikipedia.org/wiki/International_Space_Station\" title=\"International Space Station\">International Space Station</a> explodes seconds after taking off from the <a href=\"https://wikipedia.org/wiki/Mid-Atlantic_Regional_Spaceport\" title=\"Mid-Atlantic Regional Spaceport\">Mid-Atlantic Regional Spaceport</a> in <a href=\"https://wikipedia.org/wiki/Wallops_Island\" title=\"Wallops Island\">Wallops Island, Virginia</a>."
+        },
+        {
+            "year": 2018,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jair_Bolsonaro\" title=\"Jair Bolsonaro\">Jair Bolsonaro</a> is <a href=\"https://wikipedia.org/wiki/2018_Brazilian_general_election\" title=\"2018 Brazilian general election\">elected</a> <a href=\"https://wikipedia.org/wiki/President_of_Brazil\" title=\"President of Brazil\">president of</a> <a href=\"https://wikipedia.org/wiki/Brazil\" title=\"Brazil\">Brazil</a> with 57 million votes, with <a href=\"https://wikipedia.org/wiki/Workers%27_Party_(Brazil)\" title=\"Workers' Party (Brazil)\">Workers' Party</a> candidate <a href=\"https://wikipedia.org/wiki/Fernando_Haddad\" title=\"Fernando Haddad\">Fernando Haddad</a> as the runner-up. It is the first time in 16 years that a Workers' Party candidate is not elected president."
+        }
+    ],
+    "births": [
+        {
+            "year": 1017,
+            "html": "<a href=\"https://wikipedia.org/wiki/Henry_III,_Holy_Roman_Emperor\" title=\"Henry III, Holy Roman Emperor\">Henry III, Holy Roman Emperor</a> (d. 1056)"
+        },
+        {
+            "year": 1466,
+            "html": "<a href=\"https://wikipedia.org/wiki/Erasmus\" title=\"Erasmus\">Erasmus</a>, Dutch philosopher (d. 1536)"
+        },
+        {
+            "year": 1479,
+            "html": "<a href=\"https://wikipedia.org/wiki/John_Gage_(Tudor_politician)\" title=\"John Gage (Tudor politician)\">John Gage</a>, English courtier (d. 1556)"
+        },
+        {
+            "year": 1510,
+            "html": "<a href=\"https://wikipedia.org/wiki/Francis_Borgia,_4th_Duke_of_Gand%C3%ADa\" title=\"Francis Borgia, 4th Duke of Gandía\">Francis Borgia, 4th Duke of Gandía</a>, Spanish priest and saint, 3rd <a href=\"https://wikipedia.org/wiki/Superior_General_of_the_Society_of_Jesus\" title=\"Superior General of the Society of Jesus\">Superior General of the Society of Jesus</a> (d. 1572)"
+        },
+        {
+            "year": 1550,
+            "html": "<a href=\"https://wikipedia.org/wiki/Stanislaus_Kostka\" title=\"Stanislaus Kostka\">Stanislaus Kostka</a>, Polish saint (d. 1568)"
+        },
+        {
+            "year": 1585,
+            "html": "<a href=\"https://wikipedia.org/wiki/Cornelius_Jansen\" title=\"Cornelius Jansen\">Cornelius Jansen</a>, Dutch bishop and theologian (d. 1638)"
+        },
+        {
+            "year": 1599,
+            "html": "<a href=\"https://wikipedia.org/wiki/Marie_of_the_Incarnation_(Ursuline)\" title=\"Marie of the Incarnation (Ursuline)\">Marie of the Incarnation</a>, foundress of the Ursuline Monastery in Quebec (d. 1672)"
+        },
+        {
+            "year": 1610,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jacob_Kettler\" title=\"Jacob Kettler\">Jacob Kettler</a>, 3rd <a href=\"https://wikipedia.org/wiki/Duchy_of_Courland_and_Semigallia\" title=\"Duchy of Courland and Semigallia\">duke of Courland and Semigallia</a> (d. 1682)"
+        },
+        {
+            "year": 1667,
+            "html": "<a href=\"https://wikipedia.org/wiki/Maria_Anna_of_Neuburg\" title=\"Maria Anna of Neuburg\">Maria Anna of Neuburg</a>, Queen consort of Spain"
+        },
+        {
+            "year": 1690,
+            "html": "<a href=\"https://wikipedia.org/wiki/Peter_Tordenskjold\" title=\"Peter Tordenskjold\">Peter Tordenskjold</a>, Norwegian admiral (d. 1720)"
+        },
+        {
+            "year": 1693,
+            "html": "<a href=\"https://wikipedia.org/wiki/%C5%A0imon_Brixi\" title=\"Šimon Brixi\">Šimon Brixi</a>, Czech composer (d. 1735)"
+        },
+        {
+            "year": 1696,
+            "html": "<a href=\"https://wikipedia.org/wiki/Maurice_de_Saxe\" title=\"Maurice de Saxe\">Maurice de Saxe</a>, French general (d. 1750)"
+        },
+        {
+            "year": 1703,
+            "html": "<a href=\"https://wikipedia.org/wiki/Antoine_Deparcieux\" title=\"Antoine Deparcieux\">Antoine Deparcieux</a>, French mathematician and engineer (d. 1768)"
+        },
+        {
+            "year": 1718,
+            "html": "<a href=\"https://wikipedia.org/wiki/Ignacije_Szentmartony\" title=\"Ignacije Szentmartony\">Ignacije Szentmartony</a>, Croatian priest, mathematician, astronomer, and explorer (d. 1793)"
+        },
+        {
+            "year": 1733,
+            "html": "<a href=\"https://wikipedia.org/wiki/Franz_Ignaz_von_Beecke\" title=\"Franz Ignaz von Beecke\">Franz Ignaz von Beecke</a>, German composer (d. 1803)"
+        },
+        {
+            "year": 1754,
+            "html": "<a href=\"https://wikipedia.org/wiki/John_Laurens\" title=\"John Laurens\">John Laurens</a>, American soldier (d. 1782)"
+        },
+        {
+            "year": 1767,
+            "html": "<a href=\"https://wikipedia.org/wiki/Marie_of_Hesse-Kassel\" title=\"Marie of Hesse-Kassel\">Marie of Hesse-Kassel</a> (d. 1852)"
+        },
+        {
+            "year": 1793,
+            "html": "<a href=\"https://wikipedia.org/wiki/Eliphalet_Remington\" title=\"Eliphalet Remington\">Eliphalet Remington</a>, American businessman, founded <a href=\"https://wikipedia.org/wiki/Remington_Arms\" title=\"Remington Arms\">Remington Arms</a> (d. 1861)"
+        },
+        {
+            "year": 1794,
+            "html": "<a href=\"https://wikipedia.org/wiki/Robert_Liston\" title=\"Robert Liston\">Robert Liston</a>, Scottish surgeon (d. 1847)"
+        },
+        {
+            "year": 1804,
+            "html": "<a href=\"https://wikipedia.org/wiki/Pierre_Fran%C3%A7ois_Verhulst\" title=\"Pierre François Verhulst\">Pierre François Verhulst</a>, Belgian mathematician and theorist (d. 1849)"
+        },
+        {
+            "year": 1815,
+            "html": "<a href=\"https://wikipedia.org/wiki/%C4%BDudov%C3%ADt_%C5%A0t%C3%BAr\" title=\"Ľudovít Štúr\">Ľudovít Štúr</a>, Slovak philologist and politician (d. 1856)"
+        },
+        {
+            "year": 1816,
+            "html": "<a href=\"https://wikipedia.org/wiki/Malwida_von_Meysenbug\" title=\"Malwida von Meysenbug\">Malwida von Meysenbug</a>, German writer (d. 1903)"
+        },
+        {
+            "year": 1837,
+            "html": "<a href=\"https://wikipedia.org/wiki/Tokugawa_Yoshinobu\" title=\"Tokugawa Yoshinobu\">Tokugawa Yoshinobu</a>, Japanese shōgun (d. 1913)"
+        },
+        {
+            "year": 1839,
+            "html": "<a href=\"https://wikipedia.org/wiki/Edward_P._Allen\" title=\"Edward P. Allen\">Edward P. Allen</a>, American captain, lawyer, and politician (d. 1909)"
+        },
+        {
+            "year": 1845,
+            "html": "<a href=\"https://wikipedia.org/wiki/Zygmunt_Florenty_Wr%C3%B3blewski\" title=\"Zygmunt Florenty Wróblewski\">Zygmunt Florenty Wróblewski</a>, Polish physicist and chemist (d. 1888)"
+        },
+        {
+            "year": 1846,
+            "html": "<a href=\"https://wikipedia.org/wiki/Auguste_Escoffier\" title=\"Auguste Escoffier\">Auguste Escoffier</a>, French chef and author (d. 1935)"
+        },
+        {
+            "year": 1854,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jean-Marie_Guyau\" title=\"Jean-Marie Guyau\">Jean-Marie Guyau</a>, French philosopher and poet (d. 1888)"
+        },
+        {
+            "year": 1860,
+            "html": "<a href=\"https://wikipedia.org/wiki/Kan%C5%8D_Jigor%C5%8D\" title=\"Kanō Jigorō\">Kanō Jigorō</a>, Japanese martial artist (d. 1938)"
+        },
+        {
+            "year": 1864,
+            "html": "<a href=\"https://wikipedia.org/wiki/Adolfo_Camarillo\" title=\"Adolfo Camarillo\">Adolfo Camarillo</a>, Mexican-American rancher and philanthropist (d. 1958)"
+        },
+        {
+            "year": 1867,
+            "html": "<a href=\"https://wikipedia.org/wiki/Sister_Nivedita\" title=\"Sister Nivedita\">Sister Nivedita</a>, Irish-Indian nurse, author, and educator (d. 1911)"
+        },
+        {
+            "year": 1875,
+            "html": "<a href=\"https://wikipedia.org/wiki/Gilbert_Hovey_Grosvenor\" title=\"Gilbert Hovey Grosvenor\">Gilbert Hovey Grosvenor</a>, Turkish-Canadian journalist (d. 1966)"
+        },
+        {
+            "year": 1877,
+            "html": "<a href=\"https://wikipedia.org/wiki/Joe_Adams_(baseball)\" title=\"Joe Adams (baseball)\">Joe Adams</a>, American baseball player and manager (d. 1952)"
+        },
+        {
+            "year": 1879,
+            "html": "<a href=\"https://wikipedia.org/wiki/Channing_H._Cox\" title=\"Channing H. Cox\">Channing H. Cox</a>, American lawyer and politician, 49th <a href=\"https://wikipedia.org/wiki/Governor_of_Massachusetts\" title=\"Governor of Massachusetts\">Governor of Massachusetts</a> (d. 1968)"
+        },
+        {
+            "year": 1880,
+            "html": "<a href=\"https://wikipedia.org/wiki/Wilhelm_Anderson\" title=\"Wilhelm Anderson\">Wilhelm Anderson</a>, Belarusian-Estonian astrophysicist and astronomer (d. 1940)"
+        },
+        {
+            "year": 1880,
+            "html": "<a href=\"https://wikipedia.org/wiki/Billy_Wedlock\" title=\"Billy Wedlock\">Billy Wedlock</a>, English footballer (d. 1965)"
+        },
+        {
+            "year": 1881,
+            "html": "<a href=\"https://wikipedia.org/wiki/Vin_Coutie\" title=\"Vin Coutie\">Vin Coutie</a>, Australian footballer (d. 1951)"
+        },
+        {
+            "year": 1884,
+            "html": "<a href=\"https://wikipedia.org/wiki/William_Douglas_Cook\" title=\"William Douglas Cook\">William Douglas Cook</a>, New Zealand horticulturalist, founded <a href=\"https://wikipedia.org/wiki/Eastwoodhill_Arboretum\" title=\"Eastwoodhill Arboretum\">Eastwoodhill Arboretum</a> (d. 1967)"
+        },
+        {
+            "year": 1885,
+            "html": "<a href=\"https://wikipedia.org/wiki/Velimir_Khlebnikov\" title=\"Velimir Khlebnikov\">Velimir Khlebnikov</a>, Russian poet and playwright (d. 1922)"
+        },
+        {
+            "year": 1886,
+            "html": "<a href=\"https://wikipedia.org/wiki/O._G._S._Crawford\" title=\"O. G. S. Crawford\">O. G. S. Crawford</a>, British archaeologist (d. 1957)"
+        },
+        {
+            "year": 1886,
+            "html": "<a href=\"https://wikipedia.org/wiki/Noel_Macklin\" title=\"Noel Macklin\">Noel Macklin</a>, English soldier and engineer (d. 1946)"
+        },
+        {
+            "year": 1888,
+            "html": "<a href=\"https://wikipedia.org/wiki/Christopher_Vane,_10th_Baron_Barnard\" title=\"Christopher Vane, 10th Baron Barnard\">Christopher Vane, 10th Baron Barnard</a>, English soldier and politician, <a href=\"https://wikipedia.org/wiki/Lord_Lieutenant_of_Durham\" title=\"Lord Lieutenant of Durham\">Lord Lieutenant of Durham</a> (d. 1964)"
+        },
+        {
+            "year": 1889,
+            "html": "<a href=\"https://wikipedia.org/wiki/Juliette_B%C3%A9liveau\" title=\"Juliette Béliveau\">Juliette Béliveau</a>, Canadian actress and singer (d. 1975)"
+        },
+        {
+            "year": 1892,
+            "html": "<a href=\"https://wikipedia.org/wiki/Dink_Johnson\" title=\"Dink Johnson\">Dink Johnson</a>, American pianist, drummer, and clarinet player (d. 1954)"
+        },
+        {
+            "year": 1893,
+            "html": "<a href=\"https://wikipedia.org/wiki/Christopher_Kelk_Ingold\" title=\"Christopher Kelk Ingold\">Christopher Kelk Ingold</a>, British chemist (d. 1970)"
+        },
+        {
+            "year": 1896,
+            "html": "<a href=\"https://wikipedia.org/wiki/Howard_Hanson\" title=\"Howard Hanson\">Howard Hanson</a>, American composer, conductor, and educator (d. 1981)"
+        },
+        {
+            "year": 1897,
+            "html": "<a href=\"https://wikipedia.org/wiki/Edith_Head\" title=\"Edith Head\">Edith Head</a>, American costume designer (d. 1981)"
+        },
+        {
+            "year": 1897,
+            "html": "<a href=\"https://wikipedia.org/wiki/Hans_Speidel\" title=\"Hans Speidel\">Hans Speidel</a>, German general (d. 1984)"
+        },
+        {
+            "year": 1901,
+            "html": "<a href=\"https://wikipedia.org/wiki/Eileen_Shanahan\" title=\"Eileen Shanahan\">Eileen Shanahan</a>, Irish poet (d. 1979)"
+        },
+        {
+            "year": 1902,
+            "html": "<a href=\"https://wikipedia.org/wiki/Elsa_Lanchester\" title=\"Elsa Lanchester\">Elsa Lanchester</a>, English-American actress and singer (d. 1986)"
+        },
+        {
+            "year": 1903,
+            "html": "<a href=\"https://wikipedia.org/wiki/John_Chamberlain_(journalist)\" title=\"John Chamberlain (journalist)\">John Chamberlain</a>, American historian, journalist, and critic (d. 1995)"
+        },
+        {
+            "year": 1903,
+            "html": "<a href=\"https://wikipedia.org/wiki/Evelyn_Waugh\" title=\"Evelyn Waugh\">Evelyn Waugh</a>, English journalist, author, and critic (d. 1966)"
+        },
+        {
+            "year": 1904,
+            "html": "<a href=\"https://wikipedia.org/wiki/George_Dangerfield\" title=\"George Dangerfield\">George Dangerfield</a>, English-American historian, journalist, and author (d. 1986)"
+        },
+        {
+            "year": 1905,
+            "html": "<a href=\"https://wikipedia.org/wiki/Tatyana_Ehrenfest\" title=\"Tatyana Ehrenfest\">Tatyana Ehrenfest</a>, Dutch mathematician (d. 1984)"
+        },
+        {
+            "year": 1907,
+            "html": "<a href=\"https://wikipedia.org/wiki/John_Hewitt_(poet)\" title=\"John Hewitt (poet)\">John Hewitt</a>, Irish poet, playwright, and critic (d. 1987)"
+        },
+        {
+            "year": 1908,
+            "html": "<a href=\"https://wikipedia.org/wiki/Arturo_Frondizi\" title=\"Arturo Frondizi\">Arturo Frondizi</a>, Argentinian lawyer and politician, 32nd <a href=\"https://wikipedia.org/wiki/President_of_Argentina\" title=\"President of Argentina\">President of Argentina</a> (d. 1995)"
+        },
+        {
+            "year": 1909,
+            "html": "<a href=\"https://wikipedia.org/wiki/Francis_Bacon_(artist)\" title=\"Francis Bacon (artist)\">Francis Bacon</a>, Irish painter and illustrator (d. 1992)"
+        },
+        {
+            "year": 1912,
+            "html": "<a href=\"https://wikipedia.org/wiki/Richard_Doll\" title=\"Richard Doll\">Richard Doll</a>, English physiologist and epidemiologist (d. 2005)"
+        },
+        {
+            "year": 1914,
+            "html": "<a href=\"https://wikipedia.org/wiki/Glenn_Robert_Davis\" title=\"Glenn Robert Davis\">Glenn Robert Davis</a>, American lieutenant and politician (d. 1988)"
+        },
+        {
+            "year": 1914,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jonas_Salk\" title=\"Jonas Salk\">Jonas Salk</a>, American biologist and physician (d. 1995)"
+        },
+        {
+            "year": 1914,
+            "html": "<a href=\"https://wikipedia.org/wiki/Richard_Laurence_Millington_Synge\" title=\"Richard Laurence Millington Synge\">Richard Laurence Millington Synge</a>, English biochemist and academic, <a href=\"https://wikipedia.org/wiki/Nobel_Prize_in_Chemistry\" title=\"Nobel Prize in Chemistry\">Nobel Prize</a> laureate (d. 1994)"
+        },
+        {
+            "year": 1916,
+            "html": "<a href=\"https://wikipedia.org/wiki/Pearl_Hackney\" title=\"Pearl Hackney\">Pearl Hackney</a>, English actress (d. 2009)"
+        },
+        {
+            "year": 1917,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jack_Soo\" title=\"Jack Soo\">Jack Soo</a>, American actor and singer (d. 1979)"
+        },
+        {
+            "year": 1919,
+            "html": "<a href=\"https://wikipedia.org/wiki/Walt_Hansgen\" title=\"Walt Hansgen\">Walt Hansgen</a>, American race car driver (d. 1966)"
+        },
+        {
+            "year": 1919,
+            "html": "<a href=\"https://wikipedia.org/wiki/Hans_Klenk\" title=\"Hans Klenk\">Hans Klenk</a>, German race car driver (d. 2009)"
+        },
+        {
+            "year": 1921,
+            "html": "<a href=\"https://wikipedia.org/wiki/Azumafuji_Kin%27ichi\" title=\"Azumafuji Kin'ichi\">Azumafuji Kin'ichi</a>, Japanese sumo wrestler, the 40th <a href=\"https://wikipedia.org/wiki/Yokozuna_(sumo)\" title=\"Yokozuna (sumo)\">Yokozuna</a> (d. 1973)"
+        },
+        {
+            "year": 1922,
+            "html": "<a href=\"https://wikipedia.org/wiki/Gershon_Kingsley\" title=\"Gershon Kingsley\">Gershon Kingsley</a>, German-American pianist, composer, and conductor (d. 2019)"
+        },
+        {
+            "year": 1922,
+            "html": "<a href=\"https://wikipedia.org/wiki/Simon_Muzenda\" title=\"Simon Muzenda\">Simon Muzenda</a>, Zimbabwe politician, 1st <a href=\"https://wikipedia.org/wiki/Vice_President_of_Zimbabwe\" title=\"Vice President of Zimbabwe\">Vice President of Zimbabwe</a> (d. 2003)"
+        },
+        {
+            "year": 1922,
+            "html": "<a href=\"https://wikipedia.org/wiki/Butch_van_Breda_Kolff\" title=\"Butch van Breda Kolff\">Butch van Breda Kolff</a>, American basketball player and coach (d. 2007)"
+        },
+        {
+            "year": 1923,
+            "html": "<a href=\"https://wikipedia.org/wiki/John_Connell_(actor)\" title=\"John Connell (actor)\">John Connell</a>, American actor (d. 2015)"
+        },
+        {
+            "year": 1924,
+            "html": "<a href=\"https://wikipedia.org/wiki/Antonio_Creus\" title=\"Antonio Creus\">Antonio Creus</a>, Spanish race car driver and motorcycle racer (d. 1996)"
+        },
+        {
+            "year": 1924,
+            "html": "<a href=\"https://wikipedia.org/wiki/Suryakantam_(actress)\" title=\"Suryakantam (actress)\">Peddibhotla Suryakantam</a>, Telugu actress (d. 1994)"
+        },
+        {
+            "year": 1925,
+            "html": "<a href=\"https://wikipedia.org/wiki/Ian_Hamilton_Finlay\" title=\"Ian Hamilton Finlay\">Ian Hamilton Finlay</a>, Bahamian-Scottish poet, sculptor, and gardener (d. 2006)"
+        },
+        {
+            "year": 1926,
+            "html": "<a href=\"https://wikipedia.org/wiki/Bowie_Kuhn\" title=\"Bowie Kuhn\">Bowie Kuhn</a>, American lawyer and businessman, 5th <a href=\"https://wikipedia.org/wiki/Commissioner_of_Baseball\" title=\"Commissioner of Baseball\">Commissioner of Baseball</a> (d. 2007)"
+        },
+        {
+            "year": 1927,
+            "html": "<a href=\"https://wikipedia.org/wiki/Cleo_Laine\" title=\"Cleo Laine\">Cleo Laine</a>, English singer and actress"
+        },
+        {
+            "year": 1928,
+            "html": "<a href=\"https://wikipedia.org/wiki/Ion_Mihai_Pacepa\" title=\"Ion Mihai Pacepa\">Ion Mihai Pacepa</a>, Romanian general (d. 2021)"
+        },
+        {
+            "year": 1928,
+            "html": "<a href=\"https://wikipedia.org/wiki/William_Rodgers,_Baron_Rodgers_of_Quarry_Bank\" title=\"William Rodgers, Baron Rodgers of Quarry Bank\">William Rodgers, Baron Rodgers of Quarry Bank</a>, English politician, <a href=\"https://wikipedia.org/wiki/Shadow_Secretary_of_State_for_Defence\" title=\"Shadow Secretary of State for Defence\">Shadow Secretary of State for Defence</a>"
+        },
+        {
+            "year": 1929,
+            "html": "<a href=\"https://wikipedia.org/wiki/Marcel_Bozzuffi\" title=\"Marcel Bozzuffi\">Marcel Bozzuffi</a>, French actor, director, and screenwriter (d. 1988)"
+        },
+        {
+            "year": 1929,
+            "html": "<a href=\"https://wikipedia.org/wiki/Virginia_Held\" title=\"Virginia Held\">Virginia Held</a>, American philosopher, author, and academic"
+        },
+        {
+            "year": 1929,
+            "html": "<a href=\"https://wikipedia.org/wiki/John_Hollander\" title=\"John Hollander\">John Hollander</a>, American poet, critic, and educator (d. 2013)"
+        },
+        {
+            "year": 1929,
+            "html": "<a href=\"https://wikipedia.org/wiki/Joan_Plowright\" title=\"Joan Plowright\">Joan Plowright</a>, English actress"
+        },
+        {
+            "year": 1930,
+            "html": "<a href=\"https://wikipedia.org/wiki/Bernie_Ecclestone\" title=\"Bernie Ecclestone\">Bernie Ecclestone</a>, English businessman"
+        },
+        {
+            "year": 1931,
+            "html": "<a href=\"https://wikipedia.org/wiki/Harold_Battiste\" title=\"Harold Battiste\">Harold Battiste</a>, American saxophonist, pianist, and composer (d. 2015)"
+        },
+        {
+            "year": 1932,
+            "html": "<a href=\"https://wikipedia.org/wiki/Spyros_Kyprianou\" title=\"Spyros Kyprianou\">Spyros Kyprianou</a>, Cypriot lawyer and politician, 2nd <a href=\"https://wikipedia.org/wiki/President_of_Cyprus\" title=\"President of Cyprus\">President of Cyprus</a> (d. 2002)"
+        },
+        {
+            "year": 1932,
+            "html": "<a href=\"https://wikipedia.org/wiki/Suzy_Parker\" title=\"Suzy Parker\">Suzy Parker</a>, American model and actress (d. 2003)"
+        },
+        {
+            "year": 1933,
+            "html": "<a href=\"https://wikipedia.org/wiki/Garrincha\" title=\"Garrincha\">Garrincha</a>, Brazilian footballer (d. 1983)"
+        },
+        {
+            "year": 1933,
+            "html": "<a href=\"https://wikipedia.org/wiki/Michael_Noakes\" title=\"Michael Noakes\">Michael Noakes</a>, English painter and illustrator (d. 2018)"
+        },
+        {
+            "year": 1934,
+            "html": "<a href=\"https://wikipedia.org/wiki/Charles_A._Gargano\" title=\"Charles A. Gargano\">Charles A. Gargano</a>, American diplomat, businessman and government official"
+        },
+        {
+            "year": 1935,
+            "html": "<a href=\"https://wikipedia.org/wiki/Alan_Clarke\" title=\"Alan Clarke\">Alan Clarke</a>, English director and screenwriter (d. 1990)"
+        },
+        {
+            "year": 1936,
+            "html": "<a href=\"https://wikipedia.org/wiki/Charlie_Daniels\" title=\"Charlie Daniels\">Charlie Daniels</a>, American singer-songwriter, fiddle-player and guitarist (d. 2020)"
+        },
+        {
+            "year": 1936,
+            "html": "<a href=\"https://wikipedia.org/wiki/Ted_Hawkins\" title=\"Ted Hawkins\">Ted Hawkins</a>, American soul-blues singer-songwriter and guitarist (d. 1995)"
+        },
+        {
+            "year": 1937,
+            "html": "<a href=\"https://wikipedia.org/wiki/Graham_Bond\" title=\"Graham Bond\">Graham Bond</a>, English keyboard player, singer, and saxophonist (d. 1974)"
+        },
+        {
+            "year": 1937,
+            "html": "<a href=\"https://wikipedia.org/wiki/Lenny_Wilkens\" title=\"Lenny Wilkens\">Lenny Wilkens</a>, American basketball player and coach"
+        },
+        {
+            "year": 1938,
+            "html": "<a href=\"https://wikipedia.org/wiki/Keigo_Abe\" title=\"Keigo Abe\">Keigo Abe</a>, Japanese martial artist and coach"
+        },
+        {
+            "year": 1938,
+            "html": "<a href=\"https://wikipedia.org/wiki/Kenneth_Best\" title=\"Kenneth Best\">Kenneth Best</a>, Liberian journalist, founded <i><a href=\"https://wikipedia.org/wiki/The_Daily_Observer\" title=\"The Daily Observer\">The Daily Observer</a></i>"
+        },
+        {
+            "year": 1938,
+            "html": "<a href=\"https://wikipedia.org/wiki/Howard_Blake\" title=\"Howard Blake\">Howard Blake</a>, English composer and conductor"
+        },
+        {
+            "year": 1938,
+            "html": "<a href=\"https://wikipedia.org/wiki/Dave_Budd\" title=\"Dave Budd\">Dave Budd</a>, American basketball player"
+        },
+        {
+            "year": 1938,
+            "html": "<a href=\"https://wikipedia.org/wiki/Gary_Cowan\" title=\"Gary Cowan\">Gary Cowan</a>, Canadian golfer"
+        },
+        {
+            "year": 1938,
+            "html": "<a href=\"https://wikipedia.org/wiki/David_Dimbleby\" title=\"David Dimbleby\">David Dimbleby</a>, English journalist"
+        },
+        {
+            "year": 1938,
+            "html": "<a href=\"https://wikipedia.org/wiki/Anne_Perry\" title=\"Anne Perry\">Anne Perry</a>, English author (d. 2023)"
+        },
+        {
+            "year": 1939,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jane_Alexander\" title=\"Jane Alexander\">Jane Alexander</a>, American actress and producer"
+        },
+        {
+            "year": 1939,
+            "html": "<a href=\"https://wikipedia.org/wiki/Andy_Bey\" title=\"Andy Bey\">Andy Bey</a>, American singer and pianist"
+        },
+        {
+            "year": 1939,
+            "html": "<a href=\"https://wikipedia.org/wiki/Miroslav_Cerar\" title=\"Miroslav Cerar\">Miroslav Cerar</a>, Slovenian gymnast and lawyer"
+        },
+        {
+            "year": 1939,
+            "html": "<a href=\"https://wikipedia.org/wiki/Curtis_Lee\" title=\"Curtis Lee\">Curtis Lee</a>, American singer-songwriter (d. 2015)"
+        },
+        {
+            "year": 1940,
+            "html": "<a href=\"https://wikipedia.org/wiki/Susan_Harris\" title=\"Susan Harris\">Susan Harris</a>, American screenwriter and producer"
+        },
+        {
+            "year": 1941,
+            "html": "<a href=\"https://wikipedia.org/wiki/Hank_Marvin\" title=\"Hank Marvin\">Hank Marvin</a>, English singer and guitarist"
+        },
+        {
+            "year": 1942,
+            "html": "<a href=\"https://wikipedia.org/wiki/Terence_Donovan_(actor)\" title=\"Terence Donovan (actor)\">Terence Donovan</a>, English-Australian actor"
+        },
+        {
+            "year": 1942,
+            "html": "<a href=\"https://wikipedia.org/wiki/Abdelkader_Fr%C3%A9ha\" title=\"Abdelkader Fréha\">Abdelkader Fréha</a>, Algerian footballer (d. 2012)"
+        },
+        {
+            "year": 1942,
+            "html": "<a href=\"https://wikipedia.org/wiki/Gillian_Lovegrove\" title=\"Gillian Lovegrove\">Gillian Lovegrove</a>, English computer scientist and academic"
+        },
+        {
+            "year": 1942,
+            "html": "<a href=\"https://wikipedia.org/wiki/Kees_Verkerk\" title=\"Kees Verkerk\">Kees Verkerk</a>, Dutch speed skater"
+        },
+        {
+            "year": 1943,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jimmy_McRae\" title=\"Jimmy McRae\">Jimmy McRae</a>, Scottish race car driver"
+        },
+        {
+            "year": 1943,
+            "html": "<a href=\"https://wikipedia.org/wiki/Karalyn_Patterson\" title=\"Karalyn Patterson\">Karalyn Patterson</a>, English psychologist and academic"
+        },
+        {
+            "year": 1944,
+            "html": "<a href=\"https://wikipedia.org/wiki/Gerry_Anderson_(broadcaster)\" title=\"Gerry Anderson (broadcaster)\">Gerry Anderson</a>, Irish radio and television host (d. 2014)"
+        },
+        {
+            "year": 1944,
+            "html": "<a href=\"https://wikipedia.org/wiki/Coluche\" title=\"Coluche\">Coluche</a>, French comedian and actor (d. 1986)"
+        },
+        {
+            "year": 1944,
+            "html": "<a href=\"https://wikipedia.org/wiki/Dennis_Franz\" title=\"Dennis Franz\">Dennis Franz</a>, American actor"
+        },
+        {
+            "year": 1944,
+            "html": "<a href=\"https://wikipedia.org/wiki/Anton_Schlecker\" title=\"Anton Schlecker\">Anton Schlecker</a>, German businessman, founded the <a href=\"https://wikipedia.org/wiki/Schlecker\" title=\"Schlecker\">Schlecker Company</a>"
+        },
+        {
+            "year": 1945,
+            "html": "<a href=\"https://wikipedia.org/wiki/Sandy_Berger\" title=\"Sandy Berger\">Sandy Berger</a>, American lawyer and politician, 19th <a href=\"https://wikipedia.org/wiki/National_Security_Advisor_(United_States)\" title=\"National Security Advisor (United States)\">United States National Security Advisor</a> (d. 2015)"
+        },
+        {
+            "year": 1945,
+            "html": "<a href=\"https://wikipedia.org/wiki/Wayne_Fontana\" title=\"Wayne Fontana\">Wayne Fontana</a>, English pop singer (d. 2020)"
+        },
+        {
+            "year": 1945,
+            "html": "<a href=\"https://wikipedia.org/wiki/Don_Iverson\" title=\"Don Iverson\">Don Iverson</a>, American golfer"
+        },
+        {
+            "year": 1946,
+            "html": "<a href=\"https://wikipedia.org/wiki/John_Hewson\" title=\"John Hewson\">John Hewson</a>, Australian economist and politician"
+        },
+        {
+            "year": 1946,
+            "html": "<a href=\"https://wikipedia.org/wiki/Wim_Jansen\" title=\"Wim Jansen\">Wim Jansen</a>, Dutch footballer and manager (d. 2022)"
+        },
+        {
+            "year": 1946,
+            "html": "<a href=\"https://wikipedia.org/wiki/Sharon_Thesen\" title=\"Sharon Thesen\">Sharon Thesen</a>, Canadian poet and academic"
+        },
+        {
+            "year": 1948,
+            "html": "<a href=\"https://wikipedia.org/wiki/Telma_Hopkins\" title=\"Telma Hopkins\">Telma Hopkins</a>, American singer and actress"
+        },
+        {
+            "year": 1949,
+            "html": "<a href=\"https://wikipedia.org/wiki/Dwight_Davis_(basketball)\" title=\"Dwight Davis (basketball)\">Dwight Davis</a>, American basketball player"
+        },
+        {
+            "year": 1949,
+            "html": "<a href=\"https://wikipedia.org/wiki/Caitlyn_Jenner\" title=\"Caitlyn Jenner\">Caitlyn Jenner</a>, American decathlete and actress"
+        },
+        {
+            "year": 1950,
+            "html": "<a href=\"https://wikipedia.org/wiki/Sihem_Bensedrine\" title=\"Sihem Bensedrine\">Sihem Bensedrine</a>, Tunisian journalist and activist"
+        },
+        {
+            "year": 1950,
+            "html": "<a href=\"https://wikipedia.org/wiki/Ludo_Delcroix\" title=\"Ludo Delcroix\">Ludo Delcroix</a>, Belgian cyclist"
+        },
+        {
+            "year": 1951,
+            "html": "<a href=\"https://wikipedia.org/wiki/Peter_Hitchens\" title=\"Peter Hitchens\">Peter Hitchens</a>, English journalist and author"
+        },
+        {
+            "year": 1951,
+            "html": "<a href=\"https://wikipedia.org/wiki/Joe_R._Lansdale\" title=\"Joe R. Lansdale\">Joe R. Lansdale</a>, American martial artist and author"
+        },
+        {
+            "year": 1952,
+            "html": "<a href=\"https://wikipedia.org/wiki/Annie_Potts\" title=\"Annie Potts\">Annie Potts</a>, American actress"
+        },
+        {
+            "year": 1953,
+            "html": "<a href=\"https://wikipedia.org/wiki/Pierre_Boivin\" title=\"Pierre Boivin\">Pierre Boivin</a>, Canadian businessman"
+        },
+        {
+            "year": 1953,
+            "html": "<a href=\"https://wikipedia.org/wiki/Desmond_Child\" title=\"Desmond Child\">Desmond Child</a>, American musician, songwriter, and producer"
+        },
+        {
+            "year": 1955,
+            "html": "<a href=\"https://wikipedia.org/wiki/Bill_Gates\" title=\"Bill Gates\">Bill Gates</a>, American businessman and philanthropist, co-founded <a href=\"https://wikipedia.org/wiki/Microsoft\" title=\"Microsoft\">Microsoft</a>"
+        },
+        {
+            "year": 1955,
+            "html": "<a href=\"https://wikipedia.org/wiki/Indra_Nooyi\" title=\"Indra Nooyi\">Indra Nooyi</a>, Indian-American businesswoman"
+        },
+        {
+            "year": 1956,
+            "html": "<a href=\"https://wikipedia.org/wiki/Mahmoud_Ahmadinejad\" title=\"Mahmoud Ahmadinejad\">Mahmoud Ahmadinejad</a>, Iranian engineer and politician, 6th <a href=\"https://wikipedia.org/wiki/President_of_Iran\" title=\"President of Iran\">President of Iran</a>"
+        },
+        {
+            "year": 1956,
+            "html": "<a href=\"https://wikipedia.org/wiki/Volker_Zotz\" title=\"Volker Zotz\">Volker Zotz</a>, Austrian philosopher, scholar, and author"
+        },
+        {
+            "year": 1957,
+            "html": "<a href=\"https://wikipedia.org/wiki/Marian_Bell_(economist)\" title=\"Marian Bell (economist)\">Marian Bell</a>, English economist and academic"
+        },
+        {
+            "year": 1957,
+            "html": "<a href=\"https://wikipedia.org/wiki/Stephen_Morris_(musician)\" title=\"Stephen Morris (musician)\">Stephen Morris</a>, English drummer"
+        },
+        {
+            "year": 1957,
+            "html": "<a href=\"https://wikipedia.org/wiki/Zach_Wamp\" title=\"Zach Wamp\">Zach Wamp</a>, American businessman and politician"
+        },
+        {
+            "year": 1958,
+            "html": "<a href=\"https://wikipedia.org/wiki/Concha_Garc%C3%ADa_Campoy\" title=\"Concha García Campoy\">Concha García Campoy</a>, Spanish journalist (d. 2013)"
+        },
+        {
+            "year": 1958,
+            "html": "<a href=\"https://wikipedia.org/wiki/Ashok_Chavan\" title=\"Ashok Chavan\">Ashok Chavan</a>, Indian businessman and politician, 16th <a href=\"https://wikipedia.org/wiki/Chief_Minister_of_Maharashtra\" title=\"Chief Minister of Maharashtra\">Chief Minister of Maharashtra</a>"
+        },
+        {
+            "year": 1958,
+            "html": "<a href=\"https://wikipedia.org/wiki/William_Reid_(musician)\" title=\"William Reid (musician)\">William Reid</a>, Scottish singer-songwriter and guitarist"
+        },
+        {
+            "year": 1959,
+            "html": "<a href=\"https://wikipedia.org/wiki/James_Keelaghan\" title=\"James Keelaghan\">James Keelaghan</a>, Canadian singer-songwriter and producer"
+        },
+        {
+            "year": 1959,
+            "html": "<a href=\"https://wikipedia.org/wiki/Toshio_Masuda_(composer)\" title=\"Toshio Masuda (composer)\">Toshio Masuda</a>, Japanese composer"
+        },
+        {
+            "year": 1959,
+            "html": "<a href=\"https://wikipedia.org/wiki/Randy_Wittman\" title=\"Randy Wittman\">Randy Wittman</a>, American basketball player and coach"
+        },
+        {
+            "year": 1960,
+            "html": "<a href=\"https://wikipedia.org/wiki/Landon_Curt_Noll\" title=\"Landon Curt Noll\">Landon Curt Noll</a>, American computer scientist and mathematician"
+        },
+        {
+            "year": 1962,
+            "html": "<a href=\"https://wikipedia.org/wiki/Erik_Thorstvedt\" title=\"Erik Thorstvedt\">Erik Thorstvedt</a>, Norwegian footballer and manager"
+        },
+        {
+            "year": 1962,
+            "html": "<a href=\"https://wikipedia.org/wiki/Daphne_Zuniga\" title=\"Daphne Zuniga\">Daphne Zuniga</a>, American actress"
+        },
+        {
+            "year": 1963,
+            "html": "<a href=\"https://wikipedia.org/wiki/Kevin_Dineen\" title=\"Kevin Dineen\">Kevin Dineen</a>, Canadian ice hockey player and coach"
+        },
+        {
+            "year": 1963,
+            "html": "<a href=\"https://wikipedia.org/wiki/Lauren_Holly\" title=\"Lauren Holly\">Lauren Holly</a>, American actress"
+        },
+        {
+            "year": 1963,
+            "html": "<a href=\"https://wikipedia.org/wiki/Sheryl_Underwood\" title=\"Sheryl Underwood\">Sheryl Underwood</a>, American comedian, actress, and talk show host"
+        },
+        {
+            "year": 1964,
+            "html": "<a href=\"https://wikipedia.org/wiki/Andrew_Bridgen\" title=\"Andrew Bridgen\">Andrew Bridgen</a>, English soldier and politician"
+        },
+        {
+            "year": 1964,
+            "html": "<a href=\"https://wikipedia.org/wiki/Peter_Coyne_(rugby_league)\" title=\"Peter Coyne (rugby league)\">Peter Coyne</a>, Australian rugby league player"
+        },
+        {
+            "year": 1965,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jami_Gertz\" title=\"Jami Gertz\">Jami Gertz</a>, American actress"
+        },
+        {
+            "year": 1965,
+            "html": "<a href=\"https://wikipedia.org/wiki/David_Warburton\" title=\"David Warburton\">David Warburton</a>, English composer, businessman, and politician"
+        },
+        {
+            "year": 1965,
+            "html": "<a href=\"https://wikipedia.org/wiki/Miyako_Yoshida\" title=\"Miyako Yoshida\">Miyako Yoshida</a>, Japanese ballerina"
+        },
+        {
+            "year": 1966,
+            "html": "<a href=\"https://wikipedia.org/wiki/Steve_Atwater\" title=\"Steve Atwater\">Steve Atwater</a>, American football player"
+        },
+        {
+            "year": 1966,
+            "html": "<a href=\"https://wikipedia.org/wiki/Chris_Bauer\" title=\"Chris Bauer\">Chris Bauer</a>, American actor"
+        },
+        {
+            "year": 1966,
+            "html": "<a href=\"https://wikipedia.org/wiki/Matt_Drudge\" title=\"Matt Drudge\">Matt Drudge</a>, American blogger and activist, founded the <i><a href=\"https://wikipedia.org/wiki/Drudge_Report\" title=\"Drudge Report\">Drudge Report</a></i>"
+        },
+        {
+            "year": 1966,
+            "html": "<a href=\"https://wikipedia.org/wiki/Andy_Richter\" title=\"Andy Richter\">Andy Richter</a>, American actor, producer, and screenwriter"
+        },
+        {
+            "year": 1966,
+            "html": "<a href=\"https://wikipedia.org/wiki/Aris_Spiliotopoulos\" title=\"Aris Spiliotopoulos\">Aris Spiliotopoulos</a>, Greek politician, <a href=\"https://wikipedia.org/wiki/Ministry_of_Education_and_Religious_Affairs_(Greece)\" title=\"Ministry of Education and Religious Affairs (Greece)\">Greek Minister of Education and Religious Affairs</a>"
+        },
+        {
+            "year": 1967,
+            "html": "<a href=\"https://wikipedia.org/wiki/Kevin_Macdonald_(director)\" title=\"Kevin Macdonald (director)\">Kevin Macdonald</a>, Scottish director, producer, and screenwriter"
+        },
+        {
+            "year": 1967,
+            "html": "<a href=\"https://wikipedia.org/wiki/Julia_Roberts\" title=\"Julia Roberts\">Julia Roberts</a>, American actress and producer"
+        },
+        {
+            "year": 1967,
+            "html": "<a href=\"https://wikipedia.org/wiki/John_Romero\" title=\"John Romero\">John Romero</a>, American video game designer, co-founded <a href=\"https://wikipedia.org/wiki/Id_Software\" title=\"Id Software\">Id Software</a>"
+        },
+        {
+            "year": 1968,
+            "html": "<a href=\"https://wikipedia.org/wiki/Chris_Broussard\" title=\"Chris Broussard\">Chris Broussard</a>, American journalist and sportscaster"
+        },
+        {
+            "year": 1968,
+            "html": "<a href=\"https://wikipedia.org/wiki/Marc_Li%C3%A8vremont\" title=\"Marc Lièvremont\">Marc Lièvremont</a>, French rugby player and coach"
+        },
+        {
+            "year": 1968,
+            "html": "<a href=\"https://wikipedia.org/wiki/Mayumi_Ozaki\" title=\"Mayumi Ozaki\">Mayumi Ozaki</a>, Japanese wrestler"
+        },
+        {
+            "year": 1969,
+            "html": "<a href=\"https://wikipedia.org/wiki/Steven_Chamuleau\" title=\"Steven Chamuleau\">Steven Chamuleau</a>, Dutch cardiologist"
+        },
+        {
+            "year": 1969,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jeremy_Davies\" title=\"Jeremy Davies\">Jeremy Davies</a>, American actor"
+        },
+        {
+            "year": 1969,
+            "html": "<a href=\"https://wikipedia.org/wiki/Javier_Grillo-Marxuach\" title=\"Javier Grillo-Marxuach\">Javier Grillo-Marxuach</a>, Puerto Rican screenwriter and producer"
+        },
+        {
+            "year": 1969,
+            "html": "<a href=\"https://wikipedia.org/wiki/Ben_Harper\" title=\"Ben Harper\">Ben Harper</a>, American singer-songwriter and guitarist"
+        },
+        {
+            "year": 1969,
+            "html": "<a href=\"https://wikipedia.org/wiki/Noriyoshi_Omichi\" title=\"Noriyoshi Omichi\">Noriyoshi Omichi</a>, Japanese baseball player and coach"
+        },
+        {
+            "year": 1970,
+            "html": "<a href=\"https://wikipedia.org/wiki/Alan_Peter_Cayetano\" title=\"Alan Peter Cayetano\">Alan Peter Cayetano</a>, Filipino politician and <a href=\"https://wikipedia.org/wiki/Secretary_of_Foreign_Affairs\" title=\"Secretary of Foreign Affairs\">Secretary of Foreign Affairs of the Philippines</a>"
+        },
+        {
+            "year": 1970,
+            "html": "<a href=\"https://wikipedia.org/wiki/Greg_Eagles\" title=\"Greg Eagles\">Greg Eagles</a>, American voice actor and producer"
+        },
+        {
+            "year": 1971,
+            "html": "<a href=\"https://wikipedia.org/wiki/Roxana_Briban\" title=\"Roxana Briban\">Roxana Briban</a>, Romanian soprano and actress (d. 2010)"
+        },
+        {
+            "year": 1971,
+            "html": "<a href=\"https://wikipedia.org/wiki/Caroline_Dinenage\" title=\"Caroline Dinenage\">Caroline Dinenage</a>, English businesswoman and politician"
+        },
+        {
+            "year": 1972,
+            "html": "<a href=\"https://wikipedia.org/wiki/Terrell_Davis\" title=\"Terrell Davis\">Terrell Davis</a>, American football player and sportscaster"
+        },
+        {
+            "year": 1972,
+            "html": "<a href=\"https://wikipedia.org/wiki/Brad_Paisley\" title=\"Brad Paisley\">Brad Paisley</a>, American singer-songwriter and guitarist"
+        },
+        {
+            "year": 1972,
+            "html": "<a href=\"https://wikipedia.org/wiki/Trista_Sutter\" title=\"Trista Sutter\">Trista Sutter</a>, American reality star"
+        },
+        {
+            "year": 1973,
+            "html": "<a href=\"https://wikipedia.org/wiki/Montel_Vontavious_Porter\" title=\"Montel Vontavious Porter\">Montel Vontavious Porter</a>, American wrestler and actor"
+        },
+        {
+            "year": 1973,
+            "html": "<a href=\"https://wikipedia.org/wiki/Aleksandar_Stanojevi%C4%87\" title=\"Aleksandar Stanojević\">Aleksandar Stanojević</a>, Serbian footballer and manager"
+        },
+        {
+            "year": 1974,
+            "html": "<a href=\"https://wikipedia.org/wiki/Braden_Looper\" title=\"Braden Looper\">Braden Looper</a>, American baseball player"
+        },
+        {
+            "year": 1974,
+            "html": "<a href=\"https://wikipedia.org/wiki/Vicente_Moreno\" title=\"Vicente Moreno\">Vicente Moreno</a>, Spanish footballer and manager"
+        },
+        {
+            "year": 1974,
+            "html": "<a href=\"https://wikipedia.org/wiki/Joaquin_Phoenix\" title=\"Joaquin Phoenix\">Joaquin Phoenix</a>, American actor and producer"
+        },
+        {
+            "year": 1974,
+            "html": "<a href=\"https://wikipedia.org/wiki/Dejan_Stefanovi%C4%87\" title=\"Dejan Stefanović\">Dejan Stefanović</a>, Serbian footballer and coach"
+        },
+        {
+            "year": 1974,
+            "html": "<a href=\"https://wikipedia.org/wiki/Dayanara_Torres\" title=\"Dayanara Torres\">Dayanara Torres</a>, Puerto Rican actress and singer, <a href=\"https://wikipedia.org/wiki/Miss_Universe_1993\" title=\"Miss Universe 1993\">Miss Universe 1993</a>"
+        },
+        {
+            "year": 1976,
+            "html": "<a href=\"https://wikipedia.org/wiki/Keiron_Cunningham\" title=\"Keiron Cunningham\">Keiron Cunningham</a>, British rugby league player and coach"
+        },
+        {
+            "year": 1976,
+            "html": "<a href=\"https://wikipedia.org/wiki/Martin_Lepa\" title=\"Martin Lepa\">Martin Lepa</a>, Estonian footballer"
+        },
+        {
+            "year": 1976,
+            "html": "<a href=\"https://wikipedia.org/wiki/Simone_Loria\" title=\"Simone Loria\">Simone Loria</a>, Italian footballer"
+        },
+        {
+            "year": 1978,
+            "html": "<a href=\"https://wikipedia.org/wiki/Gwendoline_Christie\" title=\"Gwendoline Christie\">Gwendoline Christie</a>, English actress"
+        },
+        {
+            "year": 1978,
+            "html": "<a href=\"https://wikipedia.org/wiki/Justin_Guarini\" title=\"Justin Guarini\">Justin Guarini</a>, American singer-songwriter and actor"
+        },
+        {
+            "year": 1979,
+            "html": "<a href=\"https://wikipedia.org/wiki/Olcay_%C3%87etinkaya\" title=\"Olcay Çetinkaya\">Olcay Çetinkaya</a>, Turkish footballer"
+        },
+        {
+            "year": 1979,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jawed_Karim\" title=\"Jawed Karim\">Jawed Karim</a>, American computer scientist"
+        },
+        {
+            "year": 1979,
+            "html": "<a href=\"https://wikipedia.org/wiki/Natina_Reed\" title=\"Natina Reed\">Natina Reed</a>, American rapper and actress (d. 2012)"
+        },
+        {
+            "year": 1979,
+            "html": "<a href=\"https://wikipedia.org/wiki/Martin_%C5%A0koula\" title=\"Martin Škoula\">Martin Škoula</a>, Czech ice hockey player"
+        },
+        {
+            "year": 1980,
+            "html": "<a href=\"https://wikipedia.org/wiki/Christy_Hemme\" title=\"Christy Hemme\">Christy Hemme</a>, American wrestler and ring announcer"
+        },
+        {
+            "year": 1980,
+            "html": "<a href=\"https://wikipedia.org/wiki/Agnes_Obel\" title=\"Agnes Obel\">Agnes Obel</a>, Danish singer-songwriter and pianist"
+        },
+        {
+            "year": 1980,
+            "html": "<a href=\"https://wikipedia.org/wiki/Alan_Smith_(footballer,_born_1980)\" title=\"Alan Smith (footballer, born 1980)\">Alan Smith</a>, English footballer and coach"
+        },
+        {
+            "year": 1981,
+            "html": "<a href=\"https://wikipedia.org/wiki/Milan_Baro%C5%A1\" title=\"Milan Baroš\">Milan Baroš</a>, Czech footballer"
+        },
+        {
+            "year": 1981,
+            "html": "<a href=\"https://wikipedia.org/wiki/Shane_Gore\" title=\"Shane Gore\">Shane Gore</a>, English footballer"
+        },
+        {
+            "year": 1981,
+            "html": "<a href=\"https://wikipedia.org/wiki/Nate_McLouth\" title=\"Nate McLouth\">Nate McLouth</a>, American baseball player"
+        },
+        {
+            "year": 1981,
+            "html": "<a href=\"https://wikipedia.org/wiki/Nick_Montgomery\" title=\"Nick Montgomery\">Nick Montgomery</a>, English-Scottish footballer"
+        },
+        {
+            "year": 1982,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jeremy_Bonderman\" title=\"Jeremy Bonderman\">Jeremy Bonderman</a>, American baseball player"
+        },
+        {
+            "year": 1982,
+            "html": "<a href=\"https://wikipedia.org/wiki/Enver_J%C3%A4%C3%A4ger\" title=\"Enver Jääger\">Enver Jääger</a>, Estonian footballer"
+        },
+        {
+            "year": 1982,
+            "html": "<a href=\"https://wikipedia.org/wiki/Anthony_Lerew\" title=\"Anthony Lerew\">Anthony Lerew</a>, American baseball player"
+        },
+        {
+            "year": 1982,
+            "html": "<a href=\"https://wikipedia.org/wiki/Hironori_Saruta\" title=\"Hironori Saruta\">Hironori Saruta</a>, Japanese footballer"
+        },
+        {
+            "year": 1982,
+            "html": "<a href=\"https://wikipedia.org/wiki/Matt_Smith_(actor)\" title=\"Matt Smith (actor)\">Matt Smith</a>, English actor and director"
+        },
+        {
+            "year": 1983,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jarrett_Jack\" title=\"Jarrett Jack\">Jarrett Jack</a>, American basketball player"
+        },
+        {
+            "year": 1983,
+            "html": "<a href=\"https://wikipedia.org/wiki/Kayo_Noro\" title=\"Kayo Noro\">Kayo Noro</a>, Japanese singer and actress"
+        },
+        {
+            "year": 1983,
+            "html": "<a href=\"https://wikipedia.org/wiki/Joe_Thomas_(actor)\" title=\"Joe Thomas (actor)\">Joe Thomas</a>, English actor and screenwriter"
+        },
+        {
+            "year": 1984,
+            "html": "<a href=\"https://wikipedia.org/wiki/Bryn_Evans_(rugby_union,_born_1984)\" title=\"Bryn Evans (rugby union, born 1984)\">Bryn Evans</a>, New Zealand rugby player"
+        },
+        {
+            "year": 1984,
+            "html": "<a href=\"https://wikipedia.org/wiki/Obafemi_Martins\" title=\"Obafemi Martins\">Obafemi Martins</a>, Nigerian footballer"
+        },
+        {
+            "year": 1984,
+            "html": "<a href=\"https://wikipedia.org/wiki/Finn_Wittrock\" title=\"Finn Wittrock\">Finn Wittrock</a>, American actor"
+        },
+        {
+            "year": 1985,
+            "html": "<a href=\"https://wikipedia.org/wiki/Tyrone_Barnett\" title=\"Tyrone Barnett\">Tyrone Barnett</a>, English footballer"
+        },
+        {
+            "year": 1985,
+            "html": "<a href=\"https://wikipedia.org/wiki/Troian_Bellisario\" title=\"Troian Bellisario\">Troian Bellisario</a>, American actress"
+        },
+        {
+            "year": 1985,
+            "html": "<a href=\"https://wikipedia.org/wiki/Anthony_Fantano\" title=\"Anthony Fantano\">Anthony Fantano</a>, American music critic"
+        },
+        {
+            "year": 1986,
+            "html": "<a href=\"https://wikipedia.org/wiki/May_Calamawy\" title=\"May Calamawy\">May Calamawy</a>, Egyptian-Palestinian actress"
+        },
+        {
+            "year": 1986,
+            "html": "<a href=\"https://wikipedia.org/wiki/Isabelle_Eriksson\" title=\"Isabelle Eriksson\">Isabelle Eriksson</a>, Swedish athlete"
+        },
+        {
+            "year": 1986,
+            "html": "<a href=\"https://wikipedia.org/wiki/Anthony_Griffith_(football)\" title=\"Anthony Griffith (football)\">Anthony Griffith</a>, English footballer"
+        },
+        {
+            "year": 1986,
+            "html": "<a href=\"https://wikipedia.org/wiki/Aki_Toyosaki\" title=\"Aki Toyosaki\">Aki Toyosaki</a>, Japanese voice actress and singer"
+        },
+        {
+            "year": 1987,
+            "html": "<a href=\"https://wikipedia.org/wiki/Frank_Ocean\" title=\"Frank Ocean\">Frank Ocean</a>, American singer-songwriter"
+        },
+        {
+            "year": 1988,
+            "html": "<a href=\"https://wikipedia.org/wiki/Edd_Gould\" title=\"Edd Gould\">Edd Gould</a>, English cartoonist and animator (d. 2012)"
+        },
+        {
+            "year": 1988,
+            "html": "<a href=\"https://wikipedia.org/wiki/Devon_Murray\" title=\"Devon Murray\">Devon Murray</a>, Irish actor"
+        },
+        {
+            "year": 1988,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jamie_xx\" title=\"Jamie xx\">Jamie xx</a>, English musician, DJ, record producer and remixer"
+        },
+        {
+            "year": 1989,
+            "html": "<a href=\"https://wikipedia.org/wiki/Devin_Ebanks\" title=\"Devin Ebanks\">Devin Ebanks</a>, American basketball player"
+        },
+        {
+            "year": 1989,
+            "html": "<a href=\"https://wikipedia.org/wiki/Camille_Muffat\" title=\"Camille Muffat\">Camille Muffat</a>, French swimmer (d. 2015)"
+        },
+        {
+            "year": 1991,
+            "html": "<a href=\"https://wikipedia.org/wiki/Lucy_Bronze\" title=\"Lucy Bronze\">Lucy Bronze</a>, English footballer"
+        },
+        {
+            "year": 1992,
+            "html": "<a href=\"https://wikipedia.org/wiki/Lexi_Ainsworth\" title=\"Lexi Ainsworth\">Lexi Ainsworth</a>, American actress"
+        },
+        {
+            "year": 1992,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jeon_Ji-hee\" title=\"Jeon Ji-hee\">Jeon Ji-hee</a>, South Korean table tennis player"
+        },
+        {
+            "year": 1992,
+            "html": "<a href=\"https://wikipedia.org/wiki/Maria_Sergejeva\" title=\"Maria Sergejeva\">Maria Sergejeva</a>, Estonian figure skater"
+        },
+        {
+            "year": 1994,
+            "html": "<a href=\"https://wikipedia.org/wiki/Andrew_Harrison_(basketball)\" title=\"Andrew Harrison (basketball)\">Andrew Harrison</a>, American basketball player"
+        },
+        {
+            "year": 1995,
+            "html": "<a href=\"https://wikipedia.org/wiki/Glen_Kamara\" title=\"Glen Kamara\">Glen Kamara</a>, Finnish footballer"
+        },
+        {
+            "year": 1995,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jae%27Sean_Tate\" title=\"Jae'Sean Tate\">Jae'Sean Tate</a>, American basketball player"
+        },
+        {
+            "year": 1996,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jasmine_Jessica_Anthony\" title=\"Jasmine Jessica Anthony\">Jasmine Jessica Anthony</a>, American actress"
+        },
+        {
+            "year": 1996,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jack_Eichel\" title=\"Jack Eichel\">Jack Eichel</a>, American ice hockey player"
+        },
+        {
+            "year": 1996,
+            "html": "<a href=\"https://wikipedia.org/wiki/Una_Raymond-Hoey\" title=\"Una Raymond-Hoey\">Una Raymond-Hoey</a>, Irish cricketer"
+        },
+        {
+            "year": 1997,
+            "html": "<a href=\"https://wikipedia.org/wiki/Stetson_Bennett\" title=\"Stetson Bennett\">Stetson Bennett</a>, American football player"
+        },
+        {
+            "year": 1997,
+            "html": "<a href=\"https://wikipedia.org/wiki/Taylor_Fritz\" title=\"Taylor Fritz\">Taylor Fritz</a>, American tennis player"
+        },
+        {
+            "year": 1997,
+            "html": "<a href=\"https://wikipedia.org/wiki/Georgia_Godwin\" title=\"Georgia Godwin\">Georgia Godwin</a>, Australian artistic gymnast"
+        },
+        {
+            "year": 1998,
+            "html": "<a href=\"https://wikipedia.org/wiki/Nolan_Gould\" title=\"Nolan Gould\">Nolan Gould</a>, American actor"
+        },
+        {
+            "year": 2001,
+            "html": "<a href=\"https://wikipedia.org/wiki/Sonay_Kartal\" title=\"Sonay Kartal\">Sonay Kartal</a>, British tennis player"
+        }
+    ],
+    "deaths": [
+        {
+            "year": 312,
+            "html": "<a href=\"https://wikipedia.org/wiki/Maxentius\" title=\"Maxentius\">Maxentius</a>, Roman emperor (b. 278)"
+        },
+        {
+            "year": 457,
+            "html": "<a href=\"https://wikipedia.org/wiki/Ibas_of_Edessa\" title=\"Ibas of Edessa\">Ibas of Edessa</a>, Syrian bishop"
+        },
+        {
+            "year": 816,
+            "html": "<a href=\"https://wikipedia.org/wiki/Beggo,_Count_of_Toulouse\" title=\"Beggo, Count of Toulouse\">Beggo</a>, count of <a href=\"https://wikipedia.org/wiki/County_of_Toulouse\" title=\"County of Toulouse\">Toulouse</a> and <a href=\"https://wikipedia.org/wiki/Paris\" title=\"Paris\">Paris</a>"
+        },
+        {
+            "year": 875,
+            "html": "<a href=\"https://wikipedia.org/wiki/Remigius_of_Lyon\" title=\"Remigius of Lyon\">Remigius of Lyon</a>, Frankish <a href=\"https://wikipedia.org/wiki/Archbishop\" title=\"Archbishop\">archbishop</a>"
+        },
+        {
+            "year": 1138,
+            "html": "King <a href=\"https://wikipedia.org/wiki/Boles%C5%82aw_III_Wrymouth\" title=\"Bolesław III Wrymouth\">Bolesław III Wrymouth</a> of <a href=\"https://wikipedia.org/wiki/Poland\" title=\"Poland\">Poland</a>"
+        },
+        {
+            "year": 1225,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jien\" title=\"Jien\">Jien</a>, Japanese monk, historian, and poet (b. 1155)"
+        },
+        {
+            "year": 1266,
+            "html": "<a href=\"https://wikipedia.org/wiki/Arsenije_Sremac\" title=\"Arsenije Sremac\">Saint Arsenije I Sremac</a>"
+        },
+        {
+            "year": 1310,
+            "html": "<a href=\"https://wikipedia.org/wiki/Ecumenical_Patriarch_Athanasius_I_of_Constantinople\" title=\"Ecumenical Patriarch Athanasius I of Constantinople\">Ecumenical Patriarch Athanasius I of Constantinople</a> (b. 1230)"
+        },
+        {
+            "year": 1312,
+            "html": "<a href=\"https://wikipedia.org/wiki/Elizabeth_of_Carinthia,_Queen_of_Germany\" title=\"Elizabeth of Carinthia, Queen of Germany\">Elizabeth of Carinthia, Queen of Germany</a> (b. 1262)"
+        },
+        {
+            "year": 1412,
+            "html": "<a href=\"https://wikipedia.org/wiki/Margaret_I_of_Denmark\" title=\"Margaret I of Denmark\">Margaret I of Denmark</a> (b. 1353)"
+        },
+        {
+            "year": 1468,
+            "html": "<a href=\"https://wikipedia.org/wiki/Bianca_Maria_Visconti\" title=\"Bianca Maria Visconti\">Bianca Maria Visconti</a>, Duchess of Milan (b. 1425)"
+        },
+        {
+            "year": 1568,
+            "html": "<a href=\"https://wikipedia.org/wiki/Ashikaga_Yoshihide\" title=\"Ashikaga Yoshihide\">Ashikaga Yoshihide</a>, Japanese shōgun (b. 1539)"
+        },
+        {
+            "year": 1592,
+            "html": "<a href=\"https://wikipedia.org/wiki/Ogier_Ghiselin_de_Busbecq\" title=\"Ogier Ghiselin de Busbecq\">Ogier Ghiselin de Busbecq</a>, Flemish diplomat"
+        },
+        {
+            "year": 1594,
+            "html": "<a href=\"https://wikipedia.org/wiki/%C5%8Ckubo_Tadayo\" title=\"Ōkubo Tadayo\">Ōkubo Tadayo</a>, Japanese general (b. 1532)"
+        },
+        {
+            "year": 1627,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jahangir\" title=\"Jahangir\">Jahangir</a>, Mughal Emperor of India (b. 1569)"
+        },
+        {
+            "year": 1639,
+            "html": "<a href=\"https://wikipedia.org/wiki/Stefano_Landi\" title=\"Stefano Landi\">Stefano Landi</a>, Italian composer and educator (b. 1587)"
+        },
+        {
+            "year": 1646,
+            "html": "<a href=\"https://wikipedia.org/wiki/William_Dobson\" title=\"William Dobson\">William Dobson</a>, English painter (b. 1610)"
+        },
+        {
+            "year": 1661,
+            "html": "<a href=\"https://wikipedia.org/wiki/Agust%C3%ADn_Moreto_y_Cavana\" title=\"Agustín Moreto y Cavana\">Agustín Moreto y Cavana</a>, Spanish priest and playwright (b. 1618)"
+        },
+        {
+            "year": 1676,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jean_Desmarets\" title=\"Jean Desmarets\">Jean Desmarets</a>, French author, poet, and playwright (b. 1595)"
+        },
+        {
+            "year": 1703,
+            "html": "<a href=\"https://wikipedia.org/wiki/John_Wallis\" title=\"John Wallis\">John Wallis</a>, English mathematician and cryptographer (b. 1616)"
+        },
+        {
+            "year": 1704,
+            "html": "<a href=\"https://wikipedia.org/wiki/John_Locke\" title=\"John Locke\">John Locke</a>, English physician and philosopher (b. 1632)"
+        },
+        {
+            "year": 1708,
+            "html": "<a href=\"https://wikipedia.org/wiki/Prince_George_of_Denmark\" title=\"Prince George of Denmark\">Prince George of Denmark</a> (b. 1653)"
+        },
+        {
+            "year": 1716,
+            "html": "<a href=\"https://wikipedia.org/wiki/Stephen_Fox\" title=\"Stephen Fox\">Stephen Fox</a>, English politician (b. 1627)"
+        },
+        {
+            "year": 1740,
+            "html": "<a href=\"https://wikipedia.org/wiki/Anna_of_Russia\" title=\"Anna of Russia\">Anna of Russia</a> (b. 1693)"
+        },
+        {
+            "year": 1754,
+            "html": "<a href=\"https://wikipedia.org/wiki/Friedrich_von_Hagedorn\" title=\"Friedrich von Hagedorn\">Friedrich von Hagedorn</a>, German poet (b. 1708)"
+        },
+        {
+            "year": 1755,
+            "html": "<a href=\"https://wikipedia.org/wiki/Joseph_Bodin_de_Boismortier\" title=\"Joseph Bodin de Boismortier\">Joseph Bodin de Boismortier</a>, French composer (b. 1689)"
+        },
+        {
+            "year": 1763,
+            "html": "<a href=\"https://wikipedia.org/wiki/Heinrich_von_Br%C3%BChl\" title=\"Heinrich von Brühl\">Heinrich von Brühl</a>, German general and politician (b. 1700)"
+        },
+        {
+            "year": 1768,
+            "html": "<a href=\"https://wikipedia.org/wiki/Michel_Blavet\" title=\"Michel Blavet\">Michel Blavet</a>, French flute player and composer (b. 1700)"
+        },
+        {
+            "year": 1787,
+            "html": "<a href=\"https://wikipedia.org/wiki/Johann_Karl_August_Mus%C3%A4us\" title=\"Johann Karl August Musäus\">Johann Karl August Musäus</a>, German author (b. 1735)"
+        },
+        {
+            "year": 1792,
+            "html": "<a href=\"https://wikipedia.org/wiki/Paul_M%C3%B6hring\" title=\"Paul Möhring\">Paul Möhring</a>, German physician, botanist, and zoologist (b. 1710)"
+        },
+        {
+            "year": 1792,
+            "html": "<a href=\"https://wikipedia.org/wiki/John_Smeaton\" title=\"John Smeaton\">John Smeaton</a>, English engineer, designed the <a href=\"https://wikipedia.org/wiki/Coldstream_Bridge\" title=\"Coldstream Bridge\">Coldstream Bridge</a> and <a href=\"https://wikipedia.org/wiki/Perth_Bridge\" title=\"Perth Bridge\">Perth Bridge</a> (b. 1724)"
+        },
+        {
+            "year": 1800,
+            "html": "<a href=\"https://wikipedia.org/wiki/Artemas_Ward\" title=\"Artemas Ward\">Artemas Ward</a>, American general and politician (b. 1727)"
+        },
+        {
+            "year": 1806,
+            "html": "<a href=\"https://wikipedia.org/wiki/Charlotte_Turner_Smith\" title=\"Charlotte Turner Smith\">Charlotte Turner Smith</a>, English poet and author (b. 1749)"
+        },
+        {
+            "year": 1818,
+            "html": "<a href=\"https://wikipedia.org/wiki/Abigail_Adams\" title=\"Abigail Adams\">Abigail Adams</a>, American writer and second <a href=\"https://wikipedia.org/wiki/First_Lady_of_the_United_States\" title=\"First Lady of the United States\">First Lady of the United States</a> (b. 1744)"
+        },
+        {
+            "year": 1841,
+            "html": "<a href=\"https://wikipedia.org/wiki/Johan_August_Arfwedson\" title=\"Johan August Arfwedson\">Johan August Arfwedson</a>, Swedish chemist and academic (b. 1792)"
+        },
+        {
+            "year": 1857,
+            "html": "<a href=\"https://wikipedia.org/wiki/Louis-Eug%C3%A8ne_Cavaignac\" title=\"Louis-Eugène Cavaignac\">Louis-Eugène Cavaignac</a>, French general and politician, 26th <a href=\"https://wikipedia.org/wiki/Prime_Minister_of_France\" title=\"Prime Minister of France\">Prime Minister of France</a> (b. 1802)"
+        },
+        {
+            "year": 1877,
+            "html": "<a href=\"https://wikipedia.org/wiki/Robert_Swinhoe\" title=\"Robert Swinhoe\">Robert Swinhoe</a>, English ornithologist and entomologist (b. 1835)"
+        },
+        {
+            "year": 1879,
+            "html": "<a href=\"https://wikipedia.org/wiki/Marie_Roch_Louis_Reybaud\" title=\"Marie Roch Louis Reybaud\">Marie Roch Louis Reybaud</a>, French economist and politician (b. 1799)"
+        },
+        {
+            "year": 1899,
+            "html": "<a href=\"https://wikipedia.org/wiki/Ottmar_Mergenthaler\" title=\"Ottmar Mergenthaler\">Ottmar Mergenthaler</a>, German-American engineer, invented the <a href=\"https://wikipedia.org/wiki/Linotype_machine\" title=\"Linotype machine\">Linotype machine</a> (b. 1854)"
+        },
+        {
+            "year": 1900,
+            "html": "<a href=\"https://wikipedia.org/wiki/Max_M%C3%BCller\" title=\"Max Müller\">Max Müller</a>, German philologist and orientalist (b. 1823)"
+        },
+        {
+            "year": 1906,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jean_Benner\" title=\"Jean Benner\">Jean Benner</a>, French artist (b. 1836)"
+        },
+        {
+            "year": 1914,
+            "html": "<a href=\"https://wikipedia.org/wiki/Richard_Heuberger\" title=\"Richard Heuberger\">Richard Heuberger</a>, Austrian composer and critic (b. 1850)"
+        },
+        {
+            "year": 1916,
+            "html": "<a href=\"https://wikipedia.org/wiki/Cleveland_Abbe\" title=\"Cleveland Abbe\">Cleveland Abbe</a>, American meteorologist and academic (b. 1838)"
+        },
+        {
+            "year": 1916,
+            "html": "<a href=\"https://wikipedia.org/wiki/Oswald_Boelcke\" title=\"Oswald Boelcke\">Oswald Boelcke</a>, German WWI flying ace (b. 1891)"
+        },
+        {
+            "year": 1917,
+            "html": "<a href=\"https://wikipedia.org/wiki/Prince_Christian_of_Schleswig-Holstein\" title=\"Prince Christian of Schleswig-Holstein\">Prince Christian of Schleswig-Holstein</a> (b. 1831)"
+        },
+        {
+            "year": 1917,
+            "html": "<a href=\"https://wikipedia.org/wiki/Dimitrios_Votsis\" title=\"Dimitrios Votsis\">Dimitrios Votsis</a>, Greek lawyer and politician (b. 1841)"
+        },
+        {
+            "year": 1918,
+            "html": "<a href=\"https://wikipedia.org/wiki/Ulisse_Dini\" title=\"Ulisse Dini\">Ulisse Dini</a>, Italian mathematician and politician (b. 1845)"
+        },
+        {
+            "year": 1929,
+            "html": "<a href=\"https://wikipedia.org/wiki/Bernhard_von_B%C3%BClow\" title=\"Bernhard von Bülow\">Bernhard von Bülow</a>, German soldier and politician, <a href=\"https://wikipedia.org/wiki/List_of_Chancellors_of_Germany\" title=\"List of Chancellors of Germany\">Chancellor of Germany</a> (b. 1849)"
+        },
+        {
+            "year": 1936,
+            "html": "<a href=\"https://wikipedia.org/wiki/Newton_Moore\" title=\"Newton Moore\">Newton Moore</a>, Australian soldier and politician, 8th <a href=\"https://wikipedia.org/wiki/Premier_of_Western_Australia\" title=\"Premier of Western Australia\">Premier of Western Australia</a> (b. 1870)"
+        },
+        {
+            "year": 1939,
+            "html": "<a href=\"https://wikipedia.org/wiki/Alice_Brady\" title=\"Alice Brady\">Alice Brady</a>, American actress (b. 1892)"
+        },
+        {
+            "year": 1941,
+            "html": "<a href=\"https://wikipedia.org/wiki/Filipp_Goloshchyokin\" title=\"Filipp Goloshchyokin\">Filipp Goloshchyokin</a>, Soviet politician (b. 1876)"
+        },
+        {
+            "year": 1945,
+            "html": "<a href=\"https://wikipedia.org/wiki/Kesago_Nakajima\" title=\"Kesago Nakajima\">Kesago Nakajima</a>, Japanese general (b. 1881)"
+        },
+        {
+            "year": 1952,
+            "html": "<a href=\"https://wikipedia.org/wiki/Billy_Hughes\" title=\"Billy Hughes\">Billy Hughes</a>, English-Australian politician, 7th <a href=\"https://wikipedia.org/wiki/Prime_Minister_of_Australia\" title=\"Prime Minister of Australia\">Prime Minister of Australia</a> (b. 1862)"
+        },
+        {
+            "year": 1957,
+            "html": "<a href=\"https://wikipedia.org/wiki/Ernst_Gr%C3%A4fenberg\" title=\"Ernst Gräfenberg\">Ernst Gräfenberg</a>, German-American physician and gynecologist (b. 1881)"
+        },
+        {
+            "year": 1959,
+            "html": "<a href=\"https://wikipedia.org/wiki/Camilo_Cienfuegos\" title=\"Camilo Cienfuegos\">Camilo Cienfuegos</a>, Cuban soldier (b. 1932)"
+        },
+        {
+            "year": 1963,
+            "html": "<a href=\"https://wikipedia.org/wiki/Mart_Saar\" title=\"Mart Saar\">Mart Saar</a>, Estonian organist and composer (b. 1882)"
+        },
+        {
+            "year": 1965,
+            "html": "<a href=\"https://wikipedia.org/wiki/Thomas_Graham_Brown\" title=\"Thomas Graham Brown\">Thomas Graham Brown</a>, Scottish mountaineer and physiologist (b. 1882)"
+        },
+        {
+            "year": 1969,
+            "html": "<a href=\"https://wikipedia.org/wiki/Constance_Dowling\" title=\"Constance Dowling\">Constance Dowling</a>, American model and actress (b. 1920)"
+        },
+        {
+            "year": 1970,
+            "html": "<a href=\"https://wikipedia.org/wiki/Baby_Huey_(singer)\" title=\"Baby Huey (singer)\">Baby Huey</a>, American singer-songwriter (b. 1944)"
+        },
+        {
+            "year": 1973,
+            "html": "<a href=\"https://wikipedia.org/wiki/Taha_Hussein\" title=\"Taha Hussein\">Taha Hussein</a>, Egyptian historian, author, and academic (b. 1889)"
+        },
+        {
+            "year": 1973,
+            "html": "<a href=\"https://wikipedia.org/wiki/Sergio_Tofano\" title=\"Sergio Tofano\">Sergio Tofano</a>, Italian actor, director, and playwright (b. 1883)"
+        },
+        {
+            "year": 1975,
+            "html": "<a href=\"https://wikipedia.org/wiki/Georges_Carpentier\" title=\"Georges Carpentier\">Georges Carpentier</a>, French boxer and actor (b. 1894)"
+        },
+        {
+            "year": 1975,
+            "html": "<a href=\"https://wikipedia.org/wiki/Oliver_Nelson\" title=\"Oliver Nelson\">Oliver Nelson</a>, American saxophonist, clarinet player, and composer (b. 1932)"
+        },
+        {
+            "year": 1976,
+            "html": "<a href=\"https://wikipedia.org/wiki/Aarne_Juutilainen\" title=\"Aarne Juutilainen\">Aarne Juutilainen</a>, Finnish army captain (b. 1904)"
+        },
+        {
+            "year": 1978,
+            "html": "<a href=\"https://wikipedia.org/wiki/Rukmani_Devi\" title=\"Rukmani Devi\">Rukmani Devi</a>, Sri Lankan singer and actress (b. 1923)"
+        },
+        {
+            "year": 1983,
+            "html": "<a href=\"https://wikipedia.org/wiki/Otto_Messmer\" title=\"Otto Messmer\">Otto Messmer</a>, American animator and screenwriter (b. 1892)"
+        },
+        {
+            "year": 1986,
+            "html": "<a href=\"https://wikipedia.org/wiki/John_Braine\" title=\"John Braine\">John Braine</a>, English author (b. 1922)"
+        },
+        {
+            "year": 1987,
+            "html": "<a href=\"https://wikipedia.org/wiki/Andr%C3%A9_Masson\" title=\"André Masson\">André Masson</a>, French soldier and painter (b. 1896)"
+        },
+        {
+            "year": 1989,
+            "html": "<a href=\"https://wikipedia.org/wiki/Henry_Hall_(bandleader)\" title=\"Henry Hall (bandleader)\">Henry Hall</a>, English bandleader, composer, and actor (b. 1898)"
+        },
+        {
+            "year": 1993,
+            "html": "<a href=\"https://wikipedia.org/wiki/Juri_Lotman\" title=\"Juri Lotman\">Juri Lotman</a>, Russian-Estonian historian and scholar (b. 1922)"
+        },
+        {
+            "year": 1997,
+            "html": "<a href=\"https://wikipedia.org/wiki/Paul_Jarrico\" title=\"Paul Jarrico\">Paul Jarrico</a>, American screenwriter and producer (b. 1915)"
+        },
+        {
+            "year": 1998,
+            "html": "<a href=\"https://wikipedia.org/wiki/Ted_Hughes\" title=\"Ted Hughes\">Ted Hughes</a>, English poet and playwright (b. 1930)"
+        },
+        {
+            "year": 1999,
+            "html": "<a href=\"https://wikipedia.org/wiki/Antonios_Katinaris\" title=\"Antonios Katinaris\">Antonios Katinaris</a>, Greek singer-songwriter (b. 1931)"
+        },
+        {
+            "year": 2000,
+            "html": "<a href=\"https://wikipedia.org/wiki/And%C3%BAjar_Cede%C3%B1o\" title=\"Andújar Cedeño\">Andújar Cedeño</a>, Dominican baseball player (b. 1969)"
+        },
+        {
+            "year": 2001,
+            "html": "<a href=\"https://wikipedia.org/wiki/Gerard_Hengeveld\" title=\"Gerard Hengeveld\">Gerard Hengeveld</a>, Dutch pianist, composer, and educator (b. 1910)"
+        },
+        {
+            "year": 2002,
+            "html": "<a href=\"https://wikipedia.org/wiki/Margaret_Booth\" title=\"Margaret Booth\">Margaret Booth</a>, American screenwriter and producer (b. 1898)"
+        },
+        {
+            "year": 2002,
+            "html": "<a href=\"https://wikipedia.org/wiki/Erling_Persson\" title=\"Erling Persson\">Erling Persson</a>, Swedish businessman, founded <a href=\"https://wikipedia.org/wiki/H%26M\" title=\"H&amp;M\">H&amp;M</a> (b. 1917)"
+        },
+        {
+            "year": 2003,
+            "html": "<a href=\"https://wikipedia.org/wiki/Sally_Baldwin\" title=\"Sally Baldwin\">Sally Baldwin</a>, Scottish social sciences professor (b. 1940)"
+        },
+        {
+            "year": 2004,
+            "html": "<a href=\"https://wikipedia.org/wiki/Eugene_K._Bird\" title=\"Eugene K. Bird\">Eugene K. Bird</a>, American colonel and author, US Commandant of Spandau Prison (b. 1926)"
+        },
+        {
+            "year": 2005,
+            "html": "<a href=\"https://wikipedia.org/wiki/Bob_Broeg\" title=\"Bob Broeg\">Bob Broeg</a>, American soldier and journalist (b. 1918)"
+        },
+        {
+            "year": 2005,
+            "html": "<a href=\"https://wikipedia.org/wiki/Raymond_Hains\" title=\"Raymond Hains\">Raymond Hains</a>, French photographer (b. 1926)"
+        },
+        {
+            "year": 2005,
+            "html": "<a href=\"https://wikipedia.org/wiki/Tony_Jackson_(basketball,_born_1942)\" title=\"Tony Jackson (basketball, born 1942)\">Tony Jackson</a>, American basketball player (b. 1942)"
+        },
+        {
+            "year": 2005,
+            "html": "<a href=\"https://wikipedia.org/wiki/Fernando_Quejas\" title=\"Fernando Quejas\">Fernando Quejas</a>, Cape Verdean-Portuguese singer-songwriter (b. 1922)"
+        },
+        {
+            "year": 2005,
+            "html": "<a href=\"https://wikipedia.org/wiki/Richard_Smalley\" title=\"Richard Smalley\">Richard Smalley</a>, American chemist and academic, <a href=\"https://wikipedia.org/wiki/Nobel_Prize_in_Chemistry\" title=\"Nobel Prize in Chemistry\">Nobel Prize</a> laureate (b. 1943)"
+        },
+        {
+            "year": 2005,
+            "html": "<a href=\"https://wikipedia.org/wiki/Ljuba_Tadi%C4%87\" title=\"Ljuba Tadić\">Ljuba Tadić</a>, Serbian actor and screenwriter (b. 1929)"
+        },
+        {
+            "year": 2006,
+            "html": "<a href=\"https://wikipedia.org/wiki/Red_Auerbach\" title=\"Red Auerbach\">Red Auerbach</a>, American basketball player and coach (b. 1917)"
+        },
+        {
+            "year": 2006,
+            "html": "<a href=\"https://wikipedia.org/wiki/Trevor_Berbick\" title=\"Trevor Berbick\">Trevor Berbick</a>, Jamaican-Canadian boxer (b. 1954)"
+        },
+        {
+            "year": 2006,
+            "html": "<a href=\"https://wikipedia.org/wiki/Marijohn_Wilkin\" title=\"Marijohn Wilkin\">Marijohn Wilkin</a>, American guitarist and songwriter (b. 1920)"
+        },
+        {
+            "year": 2007,
+            "html": "<a href=\"https://wikipedia.org/wiki/Takao_Fujinami\" title=\"Takao Fujinami\">Takao Fujinami</a>, Japanese lawyer and politician (b. 1932)"
+        },
+        {
+            "year": 2007,
+            "html": "<a href=\"https://wikipedia.org/wiki/Porter_Wagoner\" title=\"Porter Wagoner\">Porter Wagoner</a>, American singer-songwriter and guitarist (b. 1927)"
+        },
+        {
+            "year": 2009,
+            "html": "<a href=\"https://wikipedia.org/wiki/Taylor_Mitchell\" title=\"Taylor Mitchell\">Taylor Mitchell</a>, Canadian singer-songwriter and guitarist (b. 1990)"
+        },
+        {
+            "year": 2010,
+            "html": "<a href=\"https://wikipedia.org/wiki/Liang_Congjie\" title=\"Liang Congjie\">Liang Congjie</a>, Chinese historian and activist, founded <a href=\"https://wikipedia.org/wiki/Friends_of_Nature_(China)\" title=\"Friends of Nature (China)\">Friends of Nature</a> (b. 1932)"
+        },
+        {
+            "year": 2010,
+            "html": "<a href=\"https://wikipedia.org/wiki/James_MacArthur\" title=\"James MacArthur\">James MacArthur</a>, American actor (b. 1937)"
+        },
+        {
+            "year": 2010,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jonathan_Motzfeldt\" title=\"Jonathan Motzfeldt\">Jonathan Motzfeldt</a>, Greenlandic politician, 1st <a href=\"https://wikipedia.org/wiki/Prime_Minister_of_Greenland\" title=\"Prime Minister of Greenland\">Prime Minister of Greenland</a> (b. 1938)"
+        },
+        {
+            "year": 2010,
+            "html": "<a href=\"https://wikipedia.org/wiki/Ehud_Netzer\" title=\"Ehud Netzer\">Ehud Netzer</a>, Israeli archaeologist, architect, and educator (b. 1934)"
+        },
+        {
+            "year": 2011,
+            "html": "<a href=\"https://wikipedia.org/wiki/Tom_Addington\" title=\"Tom Addington\">Tom Addington</a>, English soldier (b. 1919)"
+        },
+        {
+            "year": 2012,
+            "html": "<a href=\"https://wikipedia.org/wiki/Gordon_Bilney\" title=\"Gordon Bilney\">Gordon Bilney</a>, Australian dentist and politician (b. 1939)"
+        },
+        {
+            "year": 2012,
+            "html": "<a href=\"https://wikipedia.org/wiki/John_Cheffers\" title=\"John Cheffers\">John Cheffers</a>, Australian footballer and coach (b. 1936)"
+        },
+        {
+            "year": 2012,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jack_Dellal\" title=\"Jack Dellal\">Jack Dellal</a>, English businessman (b. 1923)"
+        },
+        {
+            "year": 2013,
+            "html": "<a href=\"https://wikipedia.org/wiki/Tetsuharu_Kawakami\" title=\"Tetsuharu Kawakami\">Tetsuharu Kawakami</a>, Japanese baseball player and manager (b. 1920)"
+        },
+        {
+            "year": 2013,
+            "html": "<a href=\"https://wikipedia.org/wiki/Tadeusz_Mazowiecki\" title=\"Tadeusz Mazowiecki\">Tadeusz Mazowiecki</a>, Polish journalist and politician, <a href=\"https://wikipedia.org/wiki/Prime_Minister_of_Poland\" title=\"Prime Minister of Poland\">Prime Minister of Poland</a> (b. 1927)"
+        },
+        {
+            "year": 2013,
+            "html": "<a href=\"https://wikipedia.org/wiki/Aleksandar_Tijani%C4%87\" title=\"Aleksandar Tijanić\">Aleksandar Tijanić</a>, Serbian journalist (b. 1949)"
+        },
+        {
+            "year": 2013,
+            "html": "<a href=\"https://wikipedia.org/wiki/Rajendra_Yadav\" title=\"Rajendra Yadav\">Rajendra Yadav</a>, Indian author (b. 1929)"
+        },
+        {
+            "year": 2014,
+            "html": "<a href=\"https://wikipedia.org/wiki/Galway_Kinnell\" title=\"Galway Kinnell\">Galway Kinnell</a>, American poet and academic (b. 1927)"
+        },
+        {
+            "year": 2014,
+            "html": "<a href=\"https://wikipedia.org/wiki/Michael_Sata\" title=\"Michael Sata\">Michael Sata</a>, Zambian police officer and politician, 5th <a href=\"https://wikipedia.org/wiki/President_of_Zambia\" title=\"President of Zambia\">President of Zambia</a> (b. 1937)"
+        },
+        {
+            "year": 2018,
+            "html": "<a href=\"https://wikipedia.org/wiki/Colin_Sylvia\" title=\"Colin Sylvia\">Colin Sylvia</a>, Australian rules footballer (b. 1985)"
+        },
+        {
+            "year": 2022,
+            "html": "<a href=\"https://wikipedia.org/wiki/Jerry_Lee_Lewis\" title=\"Jerry Lee Lewis\">Jerry Lee Lewis</a>, American singer-songwriter and pianist (b. 1935)"
+        },
+        {
+            "year": 2023,
+            "html": "<a href=\"https://wikipedia.org/wiki/Matthew_Perry\" title=\"Matthew Perry\">Matthew Perry</a>, American-Canadian actor (b. 1969)"
+        },
+        {
+            "year": 2023,
+            "html": "<a href=\"https://wikipedia.org/wiki/Adam_Johnson_(ice_hockey)\" title=\"Adam Johnson (ice hockey)\">Adam Johnson (ice hockey)</a>, American ice hockey player (b. 1994)"
+        }
+    ]
+}

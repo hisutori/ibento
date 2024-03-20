@@ -1,0 +1,24 @@
+name: Upload ibento.zip and ibento-docker.zip as assets
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Zip
+        run: |
+          zip -r ibento-docker.zip src Dockerfile
+          mv src ibento
+          zip -r ibento.zip ibento
+      - name: Upload
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            ibento.zip
+            ibento-docker.zip
+          token: ${{ secrets.GITHUB_TOKEN }}

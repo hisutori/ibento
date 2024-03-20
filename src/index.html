@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+
+        <title>Ibento</title>
+        <meta name="description" content="A viewer of historical events." />
+        <link rel="manifest" href="/site.webmanifest" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+
+        <link rel="icon" href="/img/favicons/favicon192.png" sizes="any" />
+        <link rel="icon" href="/img/favicons/favicon.svg" type="image/svg+xml" />
+        <link rel="apple-touch-startup-image" href="/img/favicons/favicon256.png" />
+
+        <meta name="color-scheme" content="light dark" />
+        <meta name="theme-color" content="#333" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="/styles.css" />
+
+        <script async src="/js/events.js"></script>
+        <script defer src="/js/selector.js"></script>
+    </head>
+    <body>
+        <header>
+            <img src="/img/favicons/favicon.svg" alt="logo" loading="lazy" />
+            <hgroup>
+                <h1><a href="/">Ibento</a></h1>
+                <p>A viewer of historical events.</p>
+            </hgroup>
+        </header>
+        <nav>
+            <button data-start="-3500" data-end="476">Ancient history</button>
+            <button data-start="477" data-end="1492">Middle ages</button>
+            <button data-start="1493" data-end="1789">Modern period</button>
+            <button data-start="1790" data-end="2100">Contemporary</button>
+        </nav>
+        <main></main>
+        <footer>
+            <a href="/about.html" data-link>about</a>
+            <a href="https://github.com/hisutori/ibento" rel="noreferrer">github</a>
+            <a href="/privacy.html" data-link>privacy</a>
+            <a href="/disclaimer.html" data-link>disclaimer</a>
+        </footer>
+    </body>
+</html>
