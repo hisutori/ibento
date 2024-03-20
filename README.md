@@ -70,5 +70,6 @@ Open your browser and visit [http://localhost:8000](http://localhost:8000).
 
 ## Instances
 
-| Instance | Location | HTTP3 | Cloudflare |
-| -------- | :------: | :---: | :--------: |
+| Instance                                                            | Location | HTTP3 | Cloudflare |
+| ------------------------------------------------------------------- | :------: | :---: | :--------: |
+| [hisutori-ibento.netlify.app](https://hisutori-ibento.netlify.app/) |    US    |  No   |     No     |
